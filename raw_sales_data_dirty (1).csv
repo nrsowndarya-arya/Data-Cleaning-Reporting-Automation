@@ -1,0 +1,1006 @@
+Order_ID,Order_Date,Customer_Name,Segment,City,Region,Category,Sub_Category,Product_Name,Quantity,Sales,Discount
+ORD10927,2025-11-07,Customer_927,Corporate,Bangalore,South,Office Supplies,Binders,Product_49,6,3352.85,0.4
+ORD10631,2025-04-05,Customer_631,Corporate,Hyderabad,Central,Furniture,Chairs,Product_9,3,6713.23,0.4
+ORD10683,2025-05-13,Customer_683,Consumer,Hyderabad,South,Office Supplies,Binders,Product_32,5,574.35,0.37
+ORD10515,2025-01-10,Customer_515,Corporate,Hyderabad,South,furniture,Chairs,Product_16,7,,0.28
+ORD10366,2024-09-23,Customer_366,Corporate,Hyderabad,Central,Office Supplies,Storage,Product_27,4,8621.91,0.41
+ORD10656,2025-04-23,Customer_656,Consumer,Delhi,South,Office Supplies,Paper,Product_45,3,8737.95,0.32
+ORD10657,2025-04-24,Customer_657,Home Office,Hyderabad,Central,Office Supplies,Storage,Product_17,7,2517.06,0.36
+ORD10530,2025-01-21,Customer_530,Consumer,Hyderabad,East,Furniture,Tables,Product_8,9,3182.68,0.45
+ORD10322,2024-08-22,Customer_322,Home Office,Delhi,East,Technology,Machines,Product_10,5,7524.54,0.4
+ORD10071,2024-02-21,Customer_71,Consumer,Pune,East,Technology,Accessories,Product_23,2,1274.74,0.05
+ORD10891,2025-10-12,Customer_891,Consumer,Chennai,South,Furniture,Chairs,Product_44,1,6096.96,0.14
+ORD10372,2024-09-28,Customer_372,Consumer,Delhi,South,Technology,Phones,Product_32,2,2390.44,0.12
+ORD10768,2025-07-14,Customer_768,Home Office,Pune,South,Furniture,Tables,Product_47,6,4547.75,0.42
+ORD10457,2024-11-29,Customer_457,Consumer,Chennai,East,Office Supplies,Storage,Product_1,8,6311.93,0.1
+ORD10248,2024-06-29,Customer_248,Consumer,Mumbai,West,Technology,Accessories,Product_48,8,3938.18,0.27
+ORD10612,2025-03-22,,Corporate,Hyderabad,South,Office Supplies,Binders,Product_42,9,338.01,0.21
+ORD10706,2025-05-30,Customer_706,Home Office,Mumbai,South,Office Supplies,Storage,Product_13,7,3165.72,0.36
+ORD10980,2025-12-16,Customer_980,Corporate,Delhi,West,Technology,Accessories,Product_25,5,5256.77,0.01
+ORD10299,2024-08-05,Customer_299,Consumer,Pune,East,Office Supplies,Paper,Product_26,5,1828.44,0.05
+ORD10102,2024-03-14,Customer_102,Corporate,Chennai,Central,Technology,Machines,Product_30,6,2283.04,0.41
+ORD10961,2025-12-02,,Corporate,Hyderabad,West,Furniture,Chairs,Product_40,5,9125.17,0.36
+ORD10606,2025-03-18,Customer_606,Consumer,Chennai,East,Furniture,Tables,Product_23,8,9382.63,0.05
+ORD10214,2024-06-04,Customer_214,Consumer,Mumbai,West,Furniture,Chairs,Product_2,5,506.57,0.43
+ORD10238,2024-06-22,Customer_238,Corporate,Chennai,East,Office Supplies,Storage,Product_28,5,5402.78,0.48
+ORD10594,2025-03-09,Customer_594,Home Office,Mumbai,South,Technology,Machines,Product_28,9,3641.77,0.44
+ORD10282,2024-07-24,Customer_282,Corporate,Hyderabad,South,Technology,Phones,Product_40,9,7505.36,0.26
+ORD10378,2024-10-02,Customer_378,Home Office,Delhi,South,Furniture,Chairs,Product_31,3,2917.54,0.02
+ORD10287,2024-07-27,Customer_287,Consumer,Bangalore,Central,Furniture,Bookcases,Product_30,1,3132.05,0.0
+ORD10389,2024-10-10,Customer_389,Corporate,Mumbai,East,Furniture,Chairs,Product_35,6,1801.93,0.42
+ORD10884,2025-10-07,Customer_884,Consumer,Pune,South,Furniture,Bookcases,Product_27,7,6749.44,0.1
+ORD10718,31/02/2025,Customer_718,Home Office,Delhi,East,Furniture,Tables,Product_13,5,7627.25,0.02
+ORD10794,2025-08-02,Customer_794,Corporate,Pune,Central,Furniture,Chairs,Product_17,4,5041.95,0.18
+ORD10097,2024-03-11,Customer_97,Home Office,Hyderabad,East,Furniture,Tables,Product_44,5,4170.92,0.32
+ORD10245,2024-06-27,Customer_245,Corporate,Pune,East,Furniture,Bookcases,Product_8,5,318.65,0.14
+ORD10747,2025-06-29,Customer_747,Home Office,Hyderabad,East,Furniture,Tables,Product_46,9,8179.31,0.18
+ORD10077,2024-02-25,Customer_77,Corporate,Pune,East,Office Supplies,Storage,Product_30,5,4880.23,0.07
+ORD10934,2025-11-12,Customer_934,Consumer,Hyderabad,East,Technology,Accessories,Product_27,2,6761.03,0.4
+ORD10210,2024-06-01,Customer_210,Home Office,Pune,South,Furniture,Tables,Product_28,2,7933.71,0.35
+ORD10260,2024-07-08,Customer_260,Corporate,Pune,East,Furniture,Tables,Product_9,6,5022.81,0.33
+ORD10159,2024-04-25,Customer_159,Home Office,Chennai,East,Furniture,Chairs,Product_7,8,962.0,0.04
+ORD10496,2024-12-27,Customer_496,Consumer,Mumbai,Central,Office Supplies,Paper,Product_26,2,7977.04,0.25
+ORD10527,2025-01-19,Customer_527,Corporate,Chennai,West,Technology,Phones,Product_17,5,1668.64,0.26
+ORD10332,2024-08-29,Customer_332,Consumer,Pune,Central,Furniture,Chairs,Product_37,6,3228.37,0.26
+ORD10953,2025-11-26,Customer_953,Corporate,Delhi,South,Furniture,Tables,Product_45,5,2160.25,0.34
+ORD10315,2024-08-17,Customer_315,Corporate,Hyderabad,South,Technology,Accessories,Product_21,4,7307.32,0.24
+ORD10295,2024-08-02,Customer_295,Consumer,Pune,South,Furniture,Tables,Product_26,5,7939.72,0.31
+ORD10382,2024-10-05,Customer_382,Consumer,Bangalore,South,technology,Accessories,Product_49,4,2971.44,0.23
+ORD10921,2025-11-03,Customer_921,Consumer,Bangalore,South,Technology,Accessories,Product_46,4,3127.55,0.26
+ORD10804,2025-08-09,Customer_804,Consumer,Bangalore,East,Office Supplies,Binders,Product_50,5,6702.66,0.36
+ORD10955,2025-11-28,Customer_955,Home Office,Mumbai,East,Office Supplies,Storage,Product_29,8,2608.46,0.4
+ORD10622,2025-03-29,,Corporate,Pune,West,Office Supplies,Binders,Product_17,3,651.5,0.48
+ORD10719,2025-06-08,Customer_719,Home Office,Mumbai,Central,Furniture,Chairs,Product_17,6,7251.87,0.25
+ORD10060,2024-02-13,Customer_60,Corporate,Bangalore,West,Technology,Machines,Product_49,7,3214.83,0.39
+ORD10626,2025-04-01,Customer_626,Corporate,Delhi,East,Office Supplies,Paper,Product_15,4,684.6,0.42
+ORD10559,2025-02-11,Customer_559,Consumer,Chennai,West,Technology,Accessories,Product_20,9,565.88,0.5
+ORD10784,2025-07-26,Customer_784,Home Office,Pune,Central,Office Supplies,Paper,Product_27,1,4442.63,0.27
+ORD10381,2024-10-04,Customer_381,Corporate,Delhi,East,Office Supplies,Storage,Product_13,4,6883.23,0.25
+ORD10055,2024-02-09,Customer_55,Corporate,Bangalore,West,Office Supplies,Storage,Product_49,3,5416.71,0.04
+ORD10024,2024-01-17,Customer_24,Home Office,Mumbai,East,Office Supplies,Binders,Product_10,6,473.21,0.04
+ORD10031,2024-01-22,Customer_31,Corporate,Mumbai,East,Office Supplies,Binders,Product_47,7,4046.56,0.31
+ORD10877,2025-10-02,Customer_877,Consumer,Hyderabad,West,Furniture,Chairs,Product_40,2,7394.58,0.3
+ORD10430,2024-11-09,Customer_430,Home Office,Chennai,Central,Technology,Phones,Product_12,5,4484.01,0.03
+ORD10011,2024-01-08,Customer_11,Home Office,Delhi,West,Technology,Accessories,Product_1,1,7527.58,0.0
+ORD10817,2025-08-19,Customer_817,Consumer,Mumbai,Central,Technology,Phones,Product_40,7,3928.29,0.24
+ORD10810,2025-08-14,Customer_810,Home Office,Hyderabad,West,Office Supplies,Paper,Product_49,6,6466.73,0.49
+ORD10483,2024-12-18,Customer_483,Corporate,Delhi,West,Office Supplies,Binders,Product_38,1,2987.77,0.28
+ORD10446,2024-11-21,Customer_446,Home Office,Delhi,West,Furniture,Bookcases,Product_11,2,6249.74,0.25
+ORD10200,2024-05-25,Customer_200,Home Office,Chennai,West,Furniture,Chairs,Product_2,3,1984.34,0.27
+ORD10501,2024-12-31,Customer_501,Home Office,Pune,Central,Office Supplies,Storage,Product_43,4,9346.38,0.08
+ORD10774,2025-07-18,Customer_774,Corporate,Delhi,South,Technology,Phones,Product_16,4,4517.09,0.17
+ORD10108,2024-03-19,,Consumer,Pune,East,Technology,Machines,Product_10,9,7373.61,0.01
+ORD10219,2024-06-08,Customer_219,Home Office,Mumbai,South,Furniture,Bookcases,Product_29,7,3935.92,0.02
+ORD10421,2024-11-02,Customer_421,Consumer,Pune,Central,Technology,Accessories,Product_23,8,6292.23,0.1
+ORD10175,2024-05-07,Customer_175,Corporate,Bangalore,Central,Technology,Accessories,Product_28,5,4493.34,0.23
+ORD10721,2025-06-10,Customer_721,Home Office,Bangalore,West,Office Supplies,Binders,Product_8,1,5140.44,0.03
+ORD10520,2025-01-14,Customer_520,Corporate,Mumbai,West,Technology,Phones,Product_23,6,9968.41,0.19
+ORD10454,2024-11-27,Customer_454,Consumer,Mumbai,South,Office Supplies,Binders,Product_10,1,4343.58,0.13
+ORD10930,2025-11-09,Customer_930,Home Office,Hyderabad,West,Office Supplies,Storage,Product_44,7,7791.25,0.15
+ORD10040,2024-01-29,Customer_40,Consumer,Delhi,South,Technology,Machines,Product_27,3,9050.94,0.34
+ORD10552,2025-02-06,Customer_552,Consumer, Bangalore ,West,Furniture,Bookcases,Product_50,2,7085.59,0.05
+ORD10820,2025-08-21,Customer_820,Consumer,Bangalore,South,Technology,Accessories,Product_28,7,4593.87,0.01
+ORD10352,2024-09-13,Customer_352,Corporate,Hyderabad,West,Furniture,Bookcases,Product_46,6,3842.14,0.37
+ORD10067,2024-02-18,Customer_67,Home Office,Mumbai,Central,Office Supplies,Binders,Product_22,9,305.5,0.11
+ORD10278,2024-07-21,Customer_278,Home Office,Mumbai,West,Technology,Machines,Product_13,2,1279.15,0.47
+ORD10068,2024-02-18,Customer_68,Consumer,Chennai,South,Office Supplies,Binders,Product_41,3,7632.77,0.39
+ORD10907,2025-10-24,Customer_907,Home Office,Chennai,East,Office Supplies,Binders,Product_2,1,9983.36,0.3
+ORD10915,2025-10-29,Customer_915,Corporate,Chennai,Central,Furniture,Bookcases,Product_21,3,7184.65,0.22
+ORD10945,2025-11-20,Customer_945,Corporate,Bangalore,Central,Technology,Accessories,Product_10,7,2255.52,0.13
+ORD10297,2024-08-04,Customer_297,Home Office,Mumbai,East,Office Supplies,Paper,Product_50,7,4874.51,0.45
+ORD10619,2025-03-27,Customer_619,Home Office,Chennai,South,Office Supplies,Paper,Product_18,2,2443.48,0.39
+ORD10599,2025-03-12,Customer_599,Consumer,Mumbai,Central,Technology,Phones,Product_10,9,4775.04,0.21
+ORD10905,2025-10-22,Customer_905,Corporate,Pune,East,Technology,Accessories,Product_1,9,1183.96,0.34
+ORD10849,2025-09-11,Customer_849,Home Office,Pune,West,Furniture,Chairs,Product_48,6,5967.69,0.25
+ORD10424,2024-11-05,Customer_424,Consumer,Bangalore,West,Furniture,Bookcases,Product_46,4,2169.47,0.33
+ORD10758,2025-07-07,Customer_758,Home Office,Bangalore,West,Office Supplies,Storage,Product_19,9,5736.05,0.12
+ORD10313,2024-08-15,Customer_313,Corporate,Hyderabad,West,Technology,Machines,Product_32,1,2868.4,0.04
+ORD10185,2024-05-14,Customer_185,Home Office,Chennai,Central,Furniture,Tables,Product_14,2,137.99,0.36
+ORD10333,2024-08-30,Customer_333,Corporate,Delhi,East,Furniture,Bookcases,Product_20,2,8536.9,0.28
+ORD10089,2024-03-05,Customer_89,Consumer,Hyderabad,Central,Office Supplies,Binders,Product_23,8,7569.92,0.49
+ORD10064,2024-02-16,Customer_64,Corporate,Delhi,East,Office Supplies,Storage,Product_45,8,7207.53,0.03
+ORD10831,2025-08-29,Customer_831,Home Office,Chennai,South,Office Supplies,Binders,Product_26,3,9982.18,0.41
+ORD10577,2025-02-24,Customer_577,Home Office,Pune,East,Furniture,Tables,Product_36,6,9459.18,0.24
+ORD10216,2024-06-06,Customer_216,Consumer,Bangalore,East,Office Supplies,Storage,Product_45,4,4514.96,0.49
+ORD10605,2025-03-17,Customer_605,Home Office,Delhi,West,Furniture,Chairs,Product_48,8,6289.64,0.33
+ORD10549,2025-02-04,Customer_549,Corporate,Pune,West,Furniture,Tables,Product_44,2,4557.34,0.19
+ORD10291,2024-07-30,Customer_291,Home Office,Hyderabad,West,Office Supplies,Storage,Product_11,6,1017.88,0.04
+ORD10788,2025-07-29,Customer_788,Corporate,Delhi,East,Office Supplies,Paper,Product_40,5,2729.02,0.48
+ORD10888,2025-10-10,Customer_888,Corporate,Pune,Central,Office Supplies,Storage,Product_35,6,347.34,0.39
+ORD10965,2025-12-05,Customer_965,Home Office,Mumbai,West,Furniture,Chairs,Product_44,7,9840.92,0.15
+ORD10943,2025-11-19,Customer_943,Corporate,Delhi,Central,Office Supplies,Binders,Product_40,2,7910.38,0.44
+ORD10742,2025-06-25,Customer_742,Corporate,Pune,Central,Office Supplies,Binders,Product_39,4,1842.65,0.31
+ORD10979,2025-12-15,Customer_979,Consumer,Bangalore,South,Office Supplies,Storage,Product_31,9,1983.26,0.07
+ORD10695,2025-05-22,Customer_695,Consumer,Mumbai,West,Furniture,Bookcases,Product_31,7,8514.47,0.09
+ORD10991,2025-12-24,Customer_991,Corporate,Bangalore,East,Office Supplies,Paper,Product_21,2,7363.06,0.39
+ORD10310,2024-08-13,Customer_310,Home Office,Pune,West,Furniture,Tables,Product_1,4,345.17,0.23
+ORD10087,2024-03-03,Customer_87,Corporate,Chennai,South,Technology,Phones,Product_47,4,8796.32,0.03
+ORD10729,2025-06-15,Customer_729,Corporate,Hyderabad,West,Furniture,Tables,Product_26,6,3650.75,0.24
+ORD10517,2025-01-12,Customer_517,Corporate,Mumbai,Central,Technology,Phones,Product_47,6,7593.58,0.14
+ORD10311,2024-08-14,Customer_311,Home Office,Pune,West,Furniture,Tables,Product_30,8,2563.31,0.43
+ORD10537,2025-01-26,Customer_537,Corporate,Bangalore,East,Furniture,Tables,Product_12,4,5180.58,0.33
+ORD10137,2024-04-09,Customer_137,Corporate,Hyderabad,,Office Supplies,Binders,Product_50,1,4317.38,0.22
+ORD10922,2025-11-04,Customer_922,Corporate,Chennai,Central,Office Supplies,Binders,Product_25,7,7616.47,0.07
+ORD10466,2024-12-05,Customer_466,Corporate,Bangalore,East,Technology,Accessories,Product_50,9,9550.08,0.0
+ORD10846,2025-09-09,Customer_846,Corporate,Delhi,East,Office Supplies,Storage,Product_1,7,2205.38,0.33
+ORD10262,2024-07-09,Customer_262,Corporate,Mumbai,Central,Office Supplies,Binders,Product_6,6,1170.73,0.38
+ORD10487,2024-12-21,Customer_487,Home Office,Mumbai,South,Office Supplies,Storage,Product_30,1,3756.61,0.2
+ORD10169,2024-05-02,Customer_169,Home Office, Mumbai ,West,Furniture,Bookcases,Product_29,4,3494.11,0.07
+ORD10829,2025-08-28,Customer_829,Corporate,Chennai,East,Office Supplies,Paper,Product_4,7,6068.64,0.34
+ORD10448,2024-11-22,Customer_448,Home Office,Pune,Central,Technology,Machines,Product_44,9,9771.96,0.06
+ORD10140,2024-04-11,Customer_140,Home Office,Mumbai,South,Furniture,Bookcases,Product_1,2,5687.51,0.3
+ORD10740,2025-06-24,Customer_740,Consumer,Mumbai,Central,Office Supplies,Storage,Product_17,2,7799.4,0.32
+ORD10665,2025-04-30,Customer_665,Corporate,Delhi,Central,Office Supplies,Paper,Product_31,1,7209.86,0.22
+ORD10854,2025-09-15,Customer_854,Consumer,Mumbai,South,furniture,Chairs,Product_24,9,9474.11,0.12
+ORD10441,2024-11-17,Customer_441,Corporate,Pune,Central,Office Supplies,Paper,Product_11,7,3087.91,0.01
+ORD10051,2024-02-06,Customer_51,Corporate,Mumbai,West,Office Supplies,Paper,Product_5,4,4442.61,0.46
+ORD10532,2025-01-23,Customer_532,Corporate,Chennai,Central,Office Supplies,Binders,Product_31,5,5077.23,0.43
+ORD10056,2024-02-10,Customer_56,Consumer,Chennai,Central,Technology,Phones,Product_42,6,8415.98,0.21
+ORD10121,2024-03-28,Customer_121,Home Office,Pune,Central,Furniture,Tables,Product_28,2,6369.31,0.01
+ORD10529,2025-01-20,Customer_529,Home Office,Hyderabad,West,Office Supplies,Storage,Product_31,7,8244.76,0.23
+ORD10026,2024-01-19,Customer_26,Home Office,Bangalore,West,Furniture,Tables,Product_21,2,3275.17,0.05
+ORD10073,2024-02-22,Customer_73,Corporate,Bangalore,West,Office Supplies,Storage,Product_12,5,4817.61,0.21
+ORD10045,2024-02-02,Customer_45,Corporate,Delhi,West,furniture,Tables,Product_24,2,5422.09,0.47
+ORD10250,2024-06-30,Customer_250,Consumer,Pune,Central,Technology,Machines,Product_39,3,7407.87,0.13
+ORD10395,2024-10-14,Customer_395,Corporate,Chennai,South,Furniture,Tables,Product_50,3,5201.52,0.33
+ORD10913,2025-10-28,Customer_913,Corporate,Bangalore,East,Furniture,Tables,Product_49,3,2677.99,0.09
+ORD10899,2025-10-18,Customer_899,Consumer,Pune,South,Office Supplies,Binders,Product_12,8,1975.49,0.47
+ORD10746,2025-06-28,Customer_746,Corporate,Bangalore,South,Technology,Phones,Product_29,4,8635.89,0.31
+ORD10199,2024-05-24,Customer_199,Home Office,Chennai,West,Office Supplies,Storage,Product_48,7,8310.91,0.11
+ORD10815,2025-08-17,Customer_815,Home Office,Hyderabad,Central,Furniture,Chairs,Product_21,7,9004.18,0.38
+ORD10356,2024-09-16,Customer_356,Corporate,Bangalore,South,Technology,Accessories,Product_40,8,4082.84,0.24
+ORD10324,2024-08-24,Customer_324,Corporate,Bangalore,Central,Technology,Machines,Product_15,3,1454.77,0.03
+ORD10875,2025-09-30,Customer_875,Corporate,Delhi,South,Technology,Phones,Product_26,8,4990.39,0.1
+ORD10826,2025-08-25,Customer_826,Home Office,Bangalore,Central,Technology,Machines,Product_2,2,4423.9,0.3
+ORD10236,2024-06-20,Customer_236,Home Office,Hyderabad,West,Office Supplies,Paper,Product_49,1,3066.72,0.11
+ORD10579,2025-02-26,Customer_579,Home Office,Pune,South,Furniture,Chairs,Product_32,3,9316.89,0.16
+ORD10946,2025-11-21,Customer_946,Home Office,Pune,Central,Technology,Accessories,Product_25,7,6250.14,0.44
+ORD10940,2025-11-17,Customer_940,Home Office,Mumbai,West,Furniture,Chairs,Product_40,2,426.82,0.29
+ORD10904,2025-10-21,Customer_904,Corporate,Mumbai,West,Furniture,Chairs,Product_48,7,5301.91,0.2
+ORD10300,2024-08-06,Customer_300,Consumer,Hyderabad,East,Office Supplies,Storage,Product_23,5,7103.52,0.14
+ORD10061,2024-02-13,Customer_61,Corporate,Pune,South,Office Supplies,Storage,Product_21,2,6772.77,0.32
+ORD10328,2024-08-26,Customer_328,Home Office,Mumbai,West,Office Supplies,Storage,Product_23,7,2950.01,0.36
+ORD10528,2025-01-20,Customer_528,Consumer,Chennai,South,Office Supplies,Paper,Product_47,6,715.83,0.1
+ORD10600,2025-03-13,Customer_600,Corporate,Delhi,South,Furniture,Chairs,Product_40,6,7157.54,0.05
+ORD10542,2025-01-30,Customer_542,Consumer,Pune,East,Office Supplies,Storage,Product_29,3,845.48,0.31
+ORD10650,2025-04-19,Customer_650,Consumer,Delhi,South,Technology,Machines,Product_39,7,1902.42,0.37
+ORD10771,2025-07-16,Customer_771,Consumer,Mumbai,West,Office Supplies,Binders,Product_35,9,1333.67,0.14
+ORD10597,2025-03-11,Customer_597,Home Office,Mumbai,South,Technology,Phones,Product_5,6,1242.09,0.19
+ORD10543,2025-01-31,Customer_543,Consumer,Hyderabad,South,Technology,Phones,Product_19,7,3820.94,0.3
+ORD10782,2025-07-24,Customer_782,Corporate,Bangalore,West,Furniture,Chairs,Product_8,9,9007.46,0.37
+ORD10306,2024-08-10,Customer_306,Consumer,Bangalore,South,Office Supplies,Storage,Product_3,6,7239.21,0.02
+ORD10319,2024-08-20,Customer_319,Consumer,Bangalore,South,Office Supplies,Binders,Product_36,7,3916.98,0.29
+ORD10482,2024-12-17,Customer_482,Corporate,Pune,South,Office Supplies,Binders,Product_30,4,2501.19,0.26
+ORD10494,2024-12-26,Customer_494,Home Office,Delhi,East,Technology,Phones,Product_2,3,264.94,0.18
+ORD10266,2024-07-12,Customer_266,Home Office,Mumbai,East,Office Supplies,Binders,Product_23,8,1998.19,0.27
+ORD10111,2024-03-21,Customer_111,Consumer,Pune,Central,Technology,Phones,Product_34,2,1246.65,0.22
+ORD10469,2024-12-07,Customer_469,Home Office,Bangalore,Central,Furniture,Bookcases,Product_29,1,3454.25,0.13
+ORD10737,2025-06-21,Customer_737,Home Office,Mumbai,West,Technology,Machines,Product_16,1,2400.8,0.22
+ORD10526,2025-01-18,Customer_526,Home Office,Bangalore,Central,Furniture,Chairs,Product_42,1,2285.05,0.24
+ORD10257,2024-07-06,Customer_257,Corporate,Chennai,Central,Office Supplies,Storage,Product_29,2,3163.19,0.45
+ORD10261,2024-07-08,Customer_261,Corporate,Bangalore,East,Furniture,Chairs,Product_28,4,1866.32,0.06
+ORD10545,2025-02-01,Customer_545,Consumer,Chennai,Central,Technology,Accessories,Product_11,6,170.71,0.27
+ORD10406,2024-10-22,Customer_406,Consumer,Mumbai,East,Technology,Machines,Product_21,3,3524.0,0.24
+ORD10429,2024-11-08,Customer_429,Consumer,Pune,East,Office Supplies,Paper,Product_21,5,2600.05,0.44
+ORD10629,2025-04-03,Customer_629,Home Office,Pune,West,Furniture,Bookcases,Product_17,9,3024.68,0.31
+ORD10502,2025-01-01,Customer_502,Corporate,Pune,East,Office Supplies,Storage,Product_22,5,1397.48,0.18
+ORD10433,2024-11-11,Customer_433,Corporate,Mumbai,Central,Furniture,Bookcases,Product_49,9,9525.75,0.28
+ORD10732,2025-06-18,Customer_732,Consumer,Mumbai,Central,Furniture,Bookcases,Product_39,8,1005.73,0.18
+ORD10138,2024-04-10,Customer_138,Consumer,Mumbai,West,Technology,Phones,Product_34,2,9680.65,0.03
+ORD10358,2024-09-17,Customer_358,Corporate,Pune,Central,Technology,Phones,Product_38,1,3890.54,0.36
+ORD10929,2025-11-09,Customer_929,Consumer,Mumbai,Central,Office Supplies,Paper,Product_48,4,3291.02,0.4
+ORD10222,2024-06-10,Customer_222,Corporate,Delhi,West,Technology,Machines,Product_3,3,6230.12,0.45
+ORD10754,2025-07-04,Customer_754,Corporate,Chennai,South,Furniture,Chairs,Product_21,3,5361.64,0.08
+ORD10595,2025-03-10,Customer_595,Home Office,Bangalore,West,Furniture,Bookcases,Product_46,7,732.62,0.12
+ORD10558,2025-02-11,Customer_558,Consumer,Delhi,East,Furniture,Chairs,Product_37,7,884.21,0.36
+ORD10364,2024-09-22,Customer_364,Corporate,Pune,West,Office Supplies,Paper,Product_38,6,3993.29,0.34
+ORD10524,2025-01-17,Customer_524,Corporate,Chennai,East,Technology,Machines,Product_20,5,7296.08,0.5
+ORD10209,2024-05-31,Customer_209,Corporate,Mumbai,West,Furniture,Chairs,Product_15,2,9859.11,0.05
+ORD10779,2025-07-22,Customer_779,Consumer,Bangalore,Central,Technology,Phones,Product_33,4,3110.83,0.05
+ORD10335,2024-09-01,Customer_335,Home Office,Mumbai,Central,Technology,Machines,Product_33,4,591.65,0.39
+ORD10211,2024-06-02,Customer_211,Consumer,Chennai,West,Furniture,Tables,Product_49,5,6053.7,0.15
+ORD10351,2024-09-12,Customer_351,Home Office,Mumbai,Central,Technology,Phones,Product_25,9,8296.97,0.14
+ORD10079,2024-02-26,Customer_79,Consumer,Bangalore,Central,Technology,Accessories,Product_9,8,1244.03,0.01
+ORD10030,2024-01-22,Customer_30,Home Office,Hyderabad,South,technology,Phones,Product_45,9,8876.38,0.12
+ORD10281,2024-07-23,Customer_281,Home Office,Bangalore,Central,Technology,Accessories,Product_8,9,5228.96,0.43
+ORD10508,2025-01-05,Customer_508,Home Office,Chennai,East,Technology,Machines,Product_30,6,8582.67,0.36
+ORD10653,2025-04-21,Customer_653,Consumer,Delhi,Central,Office Supplies,Storage,Product_32,8,888.09,0.13
+ORD10947,2025-11-22,Customer_947,Home Office,Mumbai,South,Furniture,Bookcases,Product_49,9,575.98,0.38
+ORD10290,2024-07-30,Customer_290,Home Office,Hyderabad,East,Technology,Accessories,Product_44,8,2009.42,0.38
+ORD10166,2024-04-30,Customer_166,Consumer,Mumbai,Central,Furniture,Bookcases,Product_25,5,4032.99,0.32
+ORD10762,2025-07-10,Customer_762,Home Office,Bangalore,West,Furniture,Bookcases,Product_44,2,7249.94,0.21
+ORD10498,2024-12-29,Customer_498,Home Office,Delhi,South,Furniture,Tables,Product_8,9,2894.91,0.25
+ORD10463,2024-12-03,Customer_463,Home Office,Hyderabad,West,Furniture,Tables,Product_12,4,4051.35,0.05
+ORD10066,2024-02-17,Customer_66,Corporate,Chennai,South,Office Supplies,Storage,Product_39,7,3330.19,0.26
+ORD10142,2024-04-13,Customer_142,Consumer,Bangalore,East,Technology,Phones,Product_29,1,5906.47,0.01
+ORD10276,2024-07-19,Customer_276,Corporate,Mumbai,West,Furniture,Bookcases,Product_12,2,7424.69,0.06
+ORD10952,2025-11-25,Customer_952,Consumer,Chennai,West,Furniture,Tables,Product_37,1,2300.6,0.15
+ORD10583,2025-03-01,Customer_583,Corporate,Hyderabad,East,Technology,Machines,Product_22,7,2700.94,0.16
+ORD10465,2024-12-05,Customer_465,Home Office,Pune,East,Technology,Phones,Product_22,7,2114.53,0.31
+ORD10669,2025-05-03,Customer_669,Consumer,Bangalore,Central,Furniture,Bookcases,Product_25,5,5188.16,0.48
+ORD10320,2024-08-21,Customer_320,Corporate, Mumbai ,East,Office Supplies,Storage,Product_7,5,5116.19,0.4
+ORD10716,2025-06-06,Customer_716,Corporate,Hyderabad,South,Office Supplies,Paper,Product_1,7,7182.1,0.02
+ORD10307,2024-08-11,Customer_307,Corporate,Bangalore,Central,Furniture,Tables,Product_38,4,1919.47,0.14
+ORD10308,2024-08-12,Customer_308,Home Office,Pune,East,Technology,Accessories,Product_3,4,3351.02,0.23
+ORD10825,2025-08-25,Customer_825,Corporate,Bangalore,South,Technology,Accessories,Product_28,1,1788.95,0.44
+ORD10334,2024-08-31,Customer_334,Corporate,Delhi,East,Technology,Accessories,Product_12,5,505.25,0.49
+ORD10050,2024-02-05,Customer_50,Corporate,Delhi,West,Office Supplies,Paper,Product_32,5,3696.4,0.29
+ORD10731,2025-06-17,Customer_731,Home Office,Delhi,Central,Technology,Accessories,Product_13,2,4379.09,0.43
+ORD10003,2024-01-02,Customer_3,Consumer, Mumbai ,East,Technology,Machines,Product_4,6,822.74,0.05
+ORD10786,2025-07-27,Customer_786,Consumer,Hyderabad,West,Furniture,Tables,Product_1,9,5045.53,0.31
+ORD10353,2024-09-14,Customer_353,Corporate,Mumbai,Central,Technology,Phones,Product_40,2,9813.7,0.04
+ORD10909,2025-10-25,Customer_909,Consumer,Hyderabad,South,Office Supplies,Binders,Product_3,4,2912.18,0.05
+ORD10539,2025-01-28,Customer_539,Corporate,Mumbai,South,Office Supplies,Paper,Product_17,5,9735.28,0.42
+ORD10347,2024-09-09,Customer_347,Corporate,Hyderabad,South,Furniture,Tables,Product_46,3,4622.5,0.16
+ORD11000,2025-12-31,Customer_1000,Corporate,Pune,East,Furniture,Bookcases,Product_47,8,2261.2,0.33
+ORD10484,2024-12-18,Customer_484,Consumer,Bangalore,South,Office Supplies,Binders,Product_3,4,9250.66,0.01
+ORD10661,2025-04-27,Customer_661,Consumer,Mumbai,South,Technology,Phones,Product_19,6,3948.81,0.28
+ORD10034,2024-01-25,Customer_34,Corporate,Chennai,South,Office Supplies,Paper,Product_35,3,5393.14,0.14
+ORD10032,2024-01-23,Customer_32,Consumer,Delhi,Central,Technology,Machines,Product_20,7,8642.93,0.24
+ORD10232,2024-06-17,Customer_232,Consumer,Chennai,Central,Furniture,Bookcases,Product_27,1,5360.43,0.34
+ORD10752,2025-07-02,Customer_752,Consumer,Mumbai,Central,Furniture,Chairs,Product_21,3,1133.71,0.25
+ORD10193,2024-05-20,Customer_193,Consumer,Bangalore,East,Furniture,Tables,Product_3,4,8739.0,0.0
+ORD10514,2025-01-09,Customer_514,Consumer,Delhi,South,Furniture,Chairs,Product_7,1,9394.88,0.05
+ORD10004,2024-01-03,Customer_4,Home Office,Hyderabad,West,Technology,Machines,Product_22,1,7465.88,0.09
+ORD10205,2024-05-29,Customer_205,Corporate,Delhi,East,Office Supplies,Storage,Product_12,9,3190.7,0.02
+ORD10434,2024-11-12,Customer_434,Home Office,Chennai,West,Office Supplies,Paper,Product_42,6,3484.47,0.32
+ORD10807,2025-08-11,Customer_807,Corporate,Bangalore,East,Technology,Machines,Product_45,4,4413.15,0.28
+ORD10984,2025-12-19,Customer_984,Corporate,Hyderabad,Central,Furniture,Bookcases,Product_40,9,3423.26,0.23
+ORD10110,2024-03-20,Customer_110,Consumer,Mumbai,East,Office Supplies,Binders,Product_36,1,8543.97,0.14
+ORD10941,2025-11-17,Customer_941,Home Office,Chennai,West,Office Supplies,Binders,Product_23,9,9543.97,0.3
+ORD10078,2024-02-26,Customer_78,Home Office,Chennai,East,Technology,Phones,Product_22,6,2201.63,0.03
+ORD10085,2024-03-02,Customer_85,Consumer,Bangalore,Central,Furniture,Tables,Product_32,9,6098.67,0.15
+ORD10589,2025-03-05,Customer_589,Corporate,Chennai,South,Technology,Machines,Product_23,8,5917.51,0.21
+ORD10083,2024-02-29,Customer_83,Consumer,Chennai,West,Office Supplies,Binders,Product_23,2,8049.51,0.39
+ORD10255,2024-07-04,Customer_255,Home Office,Delhi,East,Furniture,Chairs,Product_19,1,8569.96,0.17
+ORD10923,2025-11-04,Customer_923,Home Office,Bangalore,East,Office Supplies,Storage,Product_21,2,6235.5,0.03
+ORD10409,2024-10-25,Customer_409,Corporate,Mumbai,Central,Technology,Phones,Product_25,2,8040.18,0.06
+ORD10654,2025-04-22,Customer_654,Consumer,Chennai,South,Technology,Phones,Product_40,9,7098.87,0.42
+ORD10522,2025-01-15,Customer_522,Corporate,Hyderabad,South,Furniture,Chairs,Product_9,5,1200.39,0.46
+ORD10919,2025-11-01,Customer_919,Home Office,Pune,South,Technology,Phones,Product_46,1,2909.6,0.21
+ORD10437,2024-11-14,Customer_437,Corporate,Delhi,South,Technology,Accessories,Product_25,4,8104.85,0.14
+ORD10006,2024-01-04,Customer_6,Home Office,Pune,East,Furniture,Bookcases,Product_43,1,2421.54,0.26
+ORD10405,2024-10-22,Customer_405,Consumer,Hyderabad,South,Office Supplies,Binders,Product_5,7,8524.42,0.27
+ORD10468,2024-12-07,Customer_468,Home Office,Delhi,East,Office Supplies,Storage,Product_17,6,565.23,0.26
+ORD10098,2024-03-11,Customer_98,Corporate,Hyderabad,East,Technology,Phones,Product_18,6,6667.29,0.43
+ORD10560,2025-02-12,Customer_560,Corporate,Delhi,West,Furniture,Bookcases,Product_3,5,292.54,0.35
+ORD10360,2024-09-19,Customer_360,Consumer,Bangalore,Central,Furniture,Chairs,Product_2,7,5520.43,0.46
+ORD10873,2025-09-29,Customer_873,Home Office,Pune,East,Furniture,Bookcases,Product_42,7,9730.66,0.45
+ORD10267,2024-07-13,Customer_267,Consumer,Chennai,Central,Technology,Accessories,Product_31,9,5599.42,0.43
+ORD10678,2025-05-09,Customer_678,Consumer,Chennai,West,Furniture,Tables,Product_3,3,2380.16,0.09
+ORD10383,2024-10-06,,Home Office,Mumbai,West,Furniture,Bookcases,Product_35,9,2094.49,0.02
+ORD10694,2025-05-21,Customer_694,Home Office,Delhi,Central,Technology,Accessories,Product_49,2,126.81,0.25
+ORD10412,2024-10-27,Customer_412,Corporate,Delhi,South,Office Supplies,Paper,Product_19,4,2000.36,0.01
+ORD10886,2025-10-08,Customer_886,Home Office,Chennai,South,Office Supplies,Binders,Product_49,3,2617.17,0.26
+ORD10119,2024-03-27,Customer_119,Consumer,Chennai,South,Technology,Machines,Product_19,7,7702.9,0.33
+ORD10431,2024-11-10,Customer_431,Consumer,Hyderabad,West,Technology,Phones,Product_50,8,8487.97,0.23
+ORD10251,2024-07-01,Customer_251,Consumer,Hyderabad,East,Technology,Accessories,Product_32,8,8583.95,0.35
+ORD10343,2024-09-06,Customer_343,Home Office,Hyderabad,South,Technology,Machines,Product_32,6,4630.0,0.15
+ORD10010,2024-01-07,Customer_10,Corporate,Bangalore,South,Technology,Machines,Product_15,6,2403.1,0.09
+ORD10197,not available,Customer_197,Consumer,Bangalore,South,Technology,Phones,Product_40,4,2691.34,0.01
+ORD10880,2025-10-04,Customer_880,Home Office,Bangalore,West,Office Supplies,Storage,Product_3,3,1458.55,0.27
+ORD10082,2024-02-29,Customer_82,Corporate,Delhi,East,Furniture,Chairs,Product_37,6,242.37,0.36
+ORD10912,2025-10-27,Customer_912,Home Office,Bangalore,Central,Furniture,Tables,Product_20,1,4463.32,0.36
+ORD10479,2024-12-15,Customer_479,Home Office,Hyderabad,South,Furniture,Tables,Product_12,1,5971.26,0.47
+ORD10697,2025-05-23,Customer_697,Consumer,Mumbai,East,Technology,Machines,Product_5,5,5010.82,0.13
+ORD10240,2024-06-23,Customer_240,Home Office,Hyderabad,South,Technology,Machines,Product_34,7,6838.66,0.47
+ORD10293,2024-08-01,Customer_293,Consumer,Chennai,Central,Technology,Accessories,Product_16,9,8234.25,0.05
+ORD10212,2024-06-03,Customer_212,Consumer,Pune,West,Furniture,Tables,Product_45,4,3458.28,0.13
+ORD10722,2025-06-10,Customer_722,Home Office,Delhi,West,Technology,Phones,Product_50,9,1479.26,0.36
+ORD10362,2024-09-20,Customer_362,Home Office,Pune,East,Technology,Accessories,Product_11,6,2583.81,0.23
+ORD10452,2024-11-25,Customer_452,Consumer, Pune ,Central,Furniture,Bookcases,Product_25,4,8149.32,0.18
+ORD10228,2024-06-14,Customer_228,Corporate,Pune,West,Technology,Phones,Product_11,4,4898.43,0.26
+ORD10251,2024-07-01,Customer_251,Consumer,Hyderabad,East,Technology,Accessories,Product_32,8,8583.95,0.35
+ORD10363,2024-09-21,Customer_363,Home Office,Bangalore,South,Office Supplies,Storage,Product_33,8,1095.57,0.41
+ORD10801,2025-08-07,Customer_801,Home Office,Delhi,Central,Office Supplies,Binders,Product_23,5,5891.85,0.43
+ORD10658,2025-04-25,Customer_658,Home Office,Pune,East,Technology,Accessories,Product_49,6,4556.09,0.32
+ORD10708,2025-05-31,Customer_708,Consumer,Delhi,East,Technology,Phones,Product_42,4,6803.74,0.33
+ORD10645,2025-04-15,Customer_645,Consumer,Hyderabad,Central,Technology,Accessories,Product_7,2,1956.29,0.05
+ORD10582,2025-02-28,Customer_582,Home Office,Chennai,West,Technology,Accessories,Product_26,8,8915.37,0.28
+ORD10937,2025-11-14,Customer_937,Consumer,Chennai,East,Office Supplies,Paper,Product_28,4,3069.39,0.44
+ORD10371,2024-09-27,Customer_371,Corporate,Delhi,West,Office Supplies,Paper,Product_27,1,8859.6,0.26
+ORD10008,2024-01-06,Customer_8,Corporate,Pune,Central,Office Supplies,Paper,Product_4,3,9186.62,0.21
+ORD10156,2024-04-23,Customer_156,Consumer,Delhi,Central,Technology,Phones,Product_26,8,8551.18,0.3
+ORD10544,2025-01-31,Customer_544,Corporate,Delhi,East,Furniture,Bookcases,Product_46,2,8223.39,0.42
+ORD10443,2024-11-18,Customer_443,Corporate,Delhi,Central,Office Supplies,Paper,Product_27,9,5103.12,0.29
+ORD10821,2025-08-22,Customer_821,Consumer,Delhi,South,Furniture,Bookcases,Product_17,9,5119.3,0.14
+ORD10399,2024-10-17,Customer_399,Corporate,Delhi,South,Technology,Accessories,Product_32,3,7460.01,0.16
+ORD10960,2025-12-01,Customer_960,Corporate,Delhi,West,Furniture,Bookcases,Product_1,3,4984.73,0.24
+ORD10569,2025-02-19,Customer_569,Corporate,Pune,South,Technology,Machines,Product_46,7,5727.48,0.08
+ORD10592,2025-03-07,Customer_592,Home Office,Pune,West,Technology,Accessories,Product_31,9,4530.76,0.16
+ORD10581,2025-02-27,Customer_581,Consumer,Mumbai,East,Furniture,Tables,Product_37,8,5518.32,0.1
+ORD10939,2025-11-16,Customer_939,Corporate,Mumbai,West,Technology,Phones,Product_22,1,4376.69,0.42
+ORD10696,2025-05-22,Customer_696,Home Office,Hyderabad,East,Office Supplies,Binders,Product_29,1,3870.81,0.37
+ORD10867,2025-09-24,Customer_867,Consumer,Pune,South,Furniture,Chairs,Product_14,6,3496.21,0.47
+ORD10533,2025-01-23,Customer_533,Home Office,Pune,West,Technology,Machines,Product_30,7,8410.59,0.17
+ORD10586,2025-03-03,Customer_586,Corporate,Mumbai,Central,Furniture,Tables,Product_18,3,9526.22,0.35
+ORD10712,2025-06-03,Customer_712,Consumer,Chennai,South,Office Supplies,Storage,Product_13,9,2278.89,0.31
+ORD10451,2024-11-24,Customer_451,Corporate,Bangalore,Central,Furniture,Chairs,Product_41,1,4932.36,0.01
+ORD10856,2025-09-16,Customer_856,Corporate,Mumbai,South,Office Supplies,Paper,Product_50,8,4039.81,0.09
+ORD10229,2024-06-15,Customer_229,Corporate,Chennai,West,Technology,Accessories,Product_31,2,365.99,0.02
+ORD10591,2025-03-07,Customer_591,Home Office,Bangalore,Central,Technology,Phones,Product_2,3,3983.44,0.33
+ORD10733,2025-06-18,Customer_733,Home Office,Pune,East,Office Supplies,Binders,Product_37,3,7491.37,0.13
+ORD10213,2024-06-03,Customer_213,Consumer,Hyderabad,Central,Technology,Machines,Product_18,7,5491.49,0.5
+ORD10080,2024-02-27,Customer_80,Corporate,Chennai,South,Office Supplies,Binders,Product_29,4,8380.57,0.07
+ORD10149,2024-04-18,Customer_149,Home Office,Chennai,South,Furniture,Tables,Product_39,4,3844.42,0.25
+ORD10303,2024-08-08,Customer_303,Corporate,Pune,South,Furniture,Chairs,Product_49,2,5868.59,0.4
+ORD10916,2025-10-30,Customer_916,Corporate,Delhi,East,Furniture,Tables,Product_33,4,6900.72,0.1
+ORD10329,2024-08-27,Customer_329,Home Office,Hyderabad,East,Furniture,Chairs,Product_6,7,7274.49,0.46
+ORD10928,2025-11-08,Customer_928,Home Office,Delhi,West,Furniture,Chairs,Product_43,2,6062.34,0.19
+ORD10345,2024-09-08,Customer_345,Corporate,Hyderabad,West,Furniture,Tables,Product_15,8,7851.7,0.15
+ORD10546,2025-02-02,Customer_546,Home Office,Delhi,Central,Office Supplies,Storage,Product_34,5,4621.63,0.4
+ORD10507,2025-01-04,Customer_507,Corporate,Chennai,East,Furniture,Chairs,Product_26,4,5193.45,0.11
+ORD10134,2024-04-07,Customer_134,Consumer,Hyderabad,South,Office Supplies,Binders,Product_42,6,6919.22,0.19
+ORD10553,2025-02-07,Customer_553,Home Office,Pune,Central,Furniture,Bookcases,Product_38,8,5263.35,0.27
+ORD10312,2024-08-15,Customer_312,Corporate,Bangalore,South,Technology,Phones,Product_45,9,4138.11,0.29
+ORD10999,2025-12-30,Customer_999,Corporate,Bangalore,West,Technology,Machines,Product_8,1,2371.0,0.08
+ORD10568,2025-02-18,Customer_568,Corporate,Delhi,Central,Furniture,Bookcases,Product_11,5,6134.11,0.32
+ORD10001,2024-01-01,Customer_1,Corporate,Pune,Central,Technology,Machines,Product_11,1,3146.26,0.03
+ORD10317,2024-08-18,Customer_317,Consumer,Chennai,West,Office Supplies,Binders,Product_13,6,2649.04,0.18
+ORD10711,2025-06-02,Customer_711,Consumer,Mumbai,South,Office Supplies,Paper,Product_20,5,4887.14,0.5
+ORD10550,2025-02-05,Customer_550,Corporate,Chennai,East,Technology,Machines,Product_34,4,2622.01,0.22
+ORD10618,2025-03-26,Customer_618,Home Office,Delhi,East,Technology,Accessories,Product_48,9,9562.85,0.07
+ORD10535,2025-01-25,Customer_535,Home Office,Hyderabad,Central,Furniture,Chairs,Product_20,5,6189.14,0.47
+ORD10480,2024-12-16,Customer_480,Consumer,Hyderabad,Central,Technology,Phones,Product_40,5,4943.35,0.05
+ORD10778,2025-07-21,Customer_778,Consumer,Delhi,Central,Furniture,Chairs,Product_12,9,1719.18,0.02
+ORD10173,2024-05-05,Customer_173,Home Office,Pune,South,Technology,Accessories,Product_16,4,7175.49,0.15
+ORD10126,2024-04-01,Customer_126,Corporate,Mumbai,East,Furniture,Tables,Product_47,9,6995.96,0.26
+ORD10425,2024-11-05,Customer_425,Home Office,Chennai,East,Furniture,Chairs,Product_34,9,6988.37,0.25
+ORD10423,2024-11-04,Customer_423,Corporate,Pune,Central,Furniture,Chairs,Product_11,7,3792.7,0.5
+ORD10555,2025-02-08,Customer_555,Consumer,Hyderabad,South,Furniture,Bookcases,Product_10,2,9618.0,0.15
+ORD10908,2025-10-24,Customer_908,Home Office,Chennai,Central,Technology,Phones,Product_30,2,5459.49,0.35
+ORD10091,2024-03-06,Customer_91,Home Office,Pune,West,Furniture,Bookcases,Product_17,1,5962.99,0.38
+ORD10944,2025-11-20,Customer_944,Home Office,Hyderabad,East,Technology,Phones,Product_50,6,7768.26,0.02
+ORD10182,2024-05-12,Customer_182,Home Office,Delhi,Central,Technology,Accessories,Product_44,4,2092.51,0.43
+ORD10275,2024-07-19,Customer_275,Consumer,Pune,West,Furniture,Tables,Product_42,9,8293.98,0.02
+ORD10900,2025-10-18,Customer_900,Corporate,Mumbai,Central,Furniture,Bookcases,Product_23,7,4071.36,0.03
+ORD10070,2024-02-20,Customer_70,Corporate,Bangalore,West,Furniture,Tables,Product_42,2,8660.06,0.13
+ORD10292,2024-07-31,Customer_292,Home Office,Hyderabad,West,Furniture,Bookcases,Product_15,2,5369.01,0.22
+ORD10132,2024-04-05,Customer_132,Corporate,Chennai,East,Furniture,Bookcases,Product_40,5,6229.76,0.13
+ORD10301,2024-08-07,Customer_301,Corporate,Hyderabad,Central,Technology,Machines,Product_18,2,7146.6,0.16
+ORD10584,2025-03-02,Customer_584,Corporate,Hyderabad,Central,Furniture,Bookcases,Product_4,4,4775.26,0.04
+ORD10327,2024-08-26,Customer_327,Home Office,Bangalore,East,Furniture,Chairs,Product_32,1,3939.56,0.47
+ORD10145,2024-04-15,Customer_145,Corporate,Delhi,West,Furniture,Tables,Product_13,3,7155.39,0.35
+ORD10426,2024-11-06,Customer_426,Consumer,Bangalore,South,Technology,Machines,Product_28,6,9447.67,0.46
+ORD10585,2025-03-02,Customer_585,Consumer,Mumbai,East,Furniture,Tables,Product_31,4,3310.86,0.34
+ORD10136,2024-04-08,Customer_136,Home Office,Hyderabad,South,Technology,Phones,Product_29,7,2494.2,0.18
+ORD10667,2025-05-01,Customer_667,Consumer,Pune,East,Furniture,Chairs,Product_39,4,6036.01,0.4
+ORD10165,2024-04-29,Customer_165,Corporate,Delhi,East,Office Supplies,Storage,Product_43,6,8504.35,0.47
+ORD10029,2024-01-21,Customer_29,Consumer,Chennai,East,Technology,Machines,Product_3,1,,0.48
+ORD10935,2025-11-13,Customer_935,Corporate,Bangalore,West,Technology,Accessories,Product_18,8,5022.57,0.14
+ORD10194,2024-05-21,Customer_194,Home Office,Hyderabad,South,Furniture,Chairs,Product_11,6,962.38,0.21
+ORD10995,2025-12-27,Customer_995,Consumer,Delhi,East,Office Supplies,Binders,Product_38,2,2444.81,0.24
+ORD10750,2025-07-01,Customer_750,Corporate,Mumbai,East,Office Supplies,Paper,Product_13,9,8532.72,0.06
+ORD10170,2024-05-03,Customer_170,Corporate,Pune,South,Office Supplies,Storage,Product_43,5,1203.73,0.46
+ORD10491,2024-12-24,Customer_491,Consumer,Mumbai,South,Office Supplies,Storage,Product_37,3,8669.16,0.09
+ORD10141,2024-04-12,Customer_141,Consumer,Mumbai,Central,Technology,Machines,Product_34,6,9336.27,0.37
+ORD10174,2024-05-06,Customer_174,Consumer,Hyderabad,Central,Office Supplies,Paper,Product_25,3,2478.17,0.03
+ORD10007,2024-01-05,Customer_7,Home Office,Chennai,South,Technology,Accessories,Product_24,6,7518.85,0.07
+ORD10803,2025-08-09,Customer_803,Corporate,Chennai,West,Office Supplies,Paper,Product_22,8,5289.54,0.03
+ORD10636,2025-04-09,Customer_636,Home Office,Hyderabad,West,Furniture,Chairs,Product_21,5,8967.69,0.31
+ORD10074,2024-02-23,Customer_74,Corporate,Chennai,South,Office Supplies,Binders,Product_23,7,7405.02,0.26
+ORD10688,2025-05-17,Customer_688,Home Office,Hyderabad,Central,Furniture,Chairs,Product_14,1,5189.41,0.17
+ORD10981,2025-12-17,Customer_981,Consumer,Pune,South,Technology,Accessories,Product_12,8,4743.69,0.08
+ORD10239,2024-06-22,Customer_239,Corporate,Bangalore,East,Technology,Accessories,Product_31,4,6221.08,0.07
+ORD10146,2024-04-15,Customer_146,Corporate,Bangalore,East,Technology,Accessories,Product_48,5,2012.28,0.03
+ORD10797,2025-08-04,Customer_797,Home Office,Pune,South,Furniture,Tables,Product_29,3,4376.9,0.06
+ORD10235,2024-06-19,Customer_235,Consumer,Delhi,West,Furniture,Bookcases,Product_2,8,8075.46,0.41
+ORD10221,2024-06-09,Customer_221,Home Office,Bangalore,South,Furniture,Chairs,Product_29,3,4695.62,0.32
+ORD10478,2024-12-14,Customer_478,Corporate,Pune,South,Office Supplies,Paper,Product_15,1,2812.49,0.12
+ORD10837,2025-09-02,Customer_837,Consumer,Hyderabad,West,Technology,Machines,Product_17,3,1008.6,0.23
+ORD10133,2024-04-06,Customer_133,Consumer,Hyderabad,Central,Furniture,Bookcases,Product_47,5,8265.59,0.49
+ORD10996,2025-12-28,Customer_996,Home Office,Mumbai,West,Office Supplies,Binders,Product_35,7,1732.85,0.0
+ORD10842,31/02/2025,Customer_842,Corporate,Delhi,Central,Furniture,Tables,Product_35,4,2625.42,0.03
+ORD10186,2024-05-15,Customer_186,Corporate,Mumbai,South,Furniture,Chairs,Product_29,5,5069.88,0.21
+ORD10042,2024-01-30,Customer_42,Corporate,Delhi,Central,Technology,Machines,Product_23,8,9919.7,0.23
+ORD10997,2025-12-28,Customer_997,Consumer,Chennai,West,Office Supplies,Storage,Product_45,1,1333.69,0.01
+ORD10109,2024-03-19,Customer_109,Home Office,Mumbai,East,Furniture,Chairs,Product_47,7,7026.01,0.32
+ORD10870,2025-09-27,Customer_870,Home Office,Bangalore,East,Technology,Phones,Product_34,7,217.99,0.24
+ORD10057,2024-02-10,Customer_57,Home Office,Delhi,South,Technology,Phones,Product_39,8,3459.3,0.34
+ORD10531,2025-01-22,Customer_531,Home Office,Delhi,Central,Technology,Machines,Product_15,6,4076.8,0.03
+ORD10871,2025-09-27,Customer_871,Home Office,Bangalore,,Technology,Accessories,Product_3,6,1482.95,0.13
+ORD10604,2025-03-16,Customer_604,Consumer,Hyderabad,West,Technology,Machines,Product_44,1,7962.41,0.45
+ORD10865,2025-09-23,Customer_865,Corporate,Pune,East,Technology,Machines,Product_31,4,3138.62,0.22
+ORD10025,2024-01-18,Customer_25,Consumer,Chennai,East,Furniture,Chairs,Product_28,6,8099.87,0.29
+ORD10651,2025-04-19,Customer_651,Corporate,Chennai,South,Technology,Accessories,Product_4,5,5177.34,0.25
+ORD10449,2024-11-23,Customer_449,Corporate,Bangalore,East,Technology,Accessories,Product_5,6,1950.62,0.19
+ORD10534,2025-01-24,Customer_534,Corporate,Chennai,East,Technology,Accessories,Product_46,1,6543.25,0.45
+ORD10623,2025-03-30,Customer_623,Home Office,Bangalore,Central,Office Supplies,Binders,Product_15,8,1379.32,0.46
+ORD10753,2025-07-03,Customer_753,Home Office,Pune,West,Technology,Machines,Product_30,7,5732.93,0.42
+ORD10931,2025-11-10,Customer_931,Home Office,Bangalore,West,Technology,Accessories,Product_47,8,800.84,0.04
+ORD10339,2024-09-03,Customer_339,Corporate,Bangalore,South,Furniture,Chairs,Product_37,5,6760.28,0.22
+ORD10052,2024-02-07,Customer_52,Consumer,Bangalore,South,Furniture,Chairs,Product_36,8,9777.21,0.09
+ORD10668,2025-05-02,Customer_668,Consumer,Mumbai,East,Technology,Accessories,Product_8,1,5548.48,0.29
+ORD10519,2025-01-13,Customer_519,Home Office,Bangalore,West,Furniture,Tables,Product_27,8,8650.05,0.06
+ORD10925,2025-11-06,Customer_925,Home Office,Delhi,East,Technology,Machines,Product_5,6,5177.07,0.28
+ORD10637,2025-04-09,Customer_637,Consumer,Pune,West,Furniture,Bookcases,Product_18,9,386.55,0.1
+ORD10265,2024-07-11,Customer_265,Consumer,Hyderabad,South,Office Supplies,Binders,Product_16,1,3325.66,0.41
+ORD10540,2025-01-28,Customer_540,Consumer,Hyderabad,West,Office Supplies,Storage,Product_42,6,2093.92,0.48
+ORD10715,2025-06-05,Customer_715,Home Office,Chennai,West,Office Supplies,Binders,Product_33,1,986.7,0.3
+ORD10957,2025-11-29,Customer_957,Home Office,Bangalore,West,Office Supplies,Paper,Product_9,5,5781.9,0.21
+ORD10951,2025-11-25,Customer_951,Consumer,Chennai,West,Technology,Accessories,Product_45,2,9763.25,0.2
+ORD10878,2025-10-02,Customer_878,Corporate,Delhi,Central,Office Supplies,Binders,Product_10,3,5060.3,0.03
+ORD10450,2024-11-24,Customer_450,Corporate,Pune,West,Furniture,Chairs,Product_23,3,4508.21,0.12
+ORD10019,2024-01-14,Customer_19,Home Office,Chennai,East,Office Supplies,Paper,Product_21,7,8786.78,0.43
+ORD10896,2025-10-16,Customer_896,Consumer,Mumbai,Central,Office Supplies,Paper,Product_31,3,7555.88,0.41
+ORD10486,2024-12-20,Customer_486,Consumer,Hyderabad,South,Office Supplies,Binders,Product_26,4,2963.51,0.18
+ORD10571,2025-02-20,Customer_571,Home Office,Chennai,West,Technology,Machines,Product_29,5,9868.21,0.25
+ORD10401,2024-10-19,Customer_401,Corporate,Pune,West,Office Supplies,Binders,Product_43,9,8620.61,0.32
+ORD10368,2024-09-25,Customer_368,Corporate,Pune,Central,Technology,Phones,Product_12,1,6572.49,0.09
+ORD10084,2024-03-01,Customer_84,Home Office,Pune,East,Furniture,Tables,Product_13,8,9809.86,0.12
+ORD10062,2024-02-14,Customer_62,Home Office,Bangalore,East,Furniture,Tables,Product_9,8,8458.72,0.49
+ORD10440,2024-11-16,Customer_440,Corporate,Hyderabad,East,Technology,Accessories,Product_32,1,3883.12,0.44
+ORD10273,2024-07-17,Customer_273,Corporate,Delhi,Central,Furniture,Chairs,Product_37,4,6835.81,0.29
+ORD10286,2024-07-27,Customer_286,Home Office,Hyderabad,South,Technology,Accessories,Product_30,2,7413.56,0.15
+ORD10361,2024-09-20,Customer_361,Corporate,Delhi,East,Office Supplies,Storage,Product_8,7,9443.4,0.29
+ORD10355,2024-09-15,Customer_355,Consumer,Chennai,East,Furniture,Chairs,Product_7,9,7940.16,0.12
+ORD10992,2025-12-25,Customer_992,Consumer,Delhi,Central,Technology,Accessories,Product_15,7,8416.19,0.01
+ORD10279,2024-07-22,Customer_279,Home Office,Mumbai,East,Furniture,Bookcases,Product_11,8,1491.42,0.1
+ORD10013,2024-01-09,Customer_13,Consumer,Mumbai,East,Furniture,Chairs,Product_14,8,6284.17,0.34
+ORD10183,2024-05-12,Customer_183,Home Office,Pune,East,Office Supplies,Binders,Product_41,2,8913.34,0.18
+ORD10369,2024-09-25,Customer_369,Consumer, Chennai ,Central,Office Supplies,Binders,Product_43,5,3566.97,0.14
+ORD10495,2024-12-26,Customer_495,Consumer,Chennai,Central,Office Supplies,Storage,Product_36,4,3455.55,0.25
+ORD10800,2025-08-06,Customer_800,Corporate,Pune,East,Technology,Accessories,Product_40,3,1121.84,0.46
+ORD10224,2024-06-11,Customer_224,Corporate,Pune,West,Office Supplies,Binders,Product_3,5,6650.87,0.07
+ORD10576,2025-02-24,Customer_576,Corporate,Delhi,Central,Furniture,Chairs,Product_49,3,4925.32,0.44
+ORD10704,2025-05-28,Customer_704,Consumer,Chennai,South,Furniture,Tables,Product_22,8,8166.46,0.44
+ORD10588,2025-03-04,Customer_588,Home Office,Hyderabad,West,Furniture,Bookcases,Product_24,3,7119.11,0.04
+ORD10548,2025-02-03,Customer_548,Consumer,Hyderabad,West,Office Supplies,Binders,Product_7,4,619.57,0.03
+ORD10676,2025-05-08,Customer_676,Consumer,Bangalore,East,Technology,Phones,Product_3,6,2741.04,0.1
+ORD10756,2025-07-05,Customer_756,Consumer,Pune,East,Technology,Phones,Product_17,6,4028.21,0.03
+ORD10177,2024-05-08,Customer_177,Home Office,Hyderabad,South,Technology,Machines,Product_1,7,901.44,0.47
+ORD10670,2025-05-03,Customer_670,Corporate,Delhi,Central,Technology,Machines,Product_13,3,6932.22,0.33
+ORD10632,2025-04-06,Customer_632,Home Office,Hyderabad,Central,Office Supplies,Storage,Product_40,8,1419.94,0.32
+ORD10590,2025-03-06,Customer_590,Consumer,Hyderabad,Central,Office Supplies,Binders,Product_22,7,8223.86,0.22
+ORD10523,2025-01-16,Customer_523,Corporate,Bangalore,South,Office Supplies,Storage,Product_35,2,401.12,0.34
+ORD10394,2024-10-14,Customer_394,Consumer,Hyderabad,South,Furniture,Chairs,Product_24,6,2281.16,0.29
+ORD10164,2024-04-29,Customer_164,Home Office,Bangalore,West,Office Supplies,Storage,Product_17,4,2392.83,0.24
+ORD10249,2024-06-30,Customer_249,Home Office,Hyderabad,Central,Office Supplies,Binders,Product_45,4,1469.85,0.25
+ORD10639,2025-04-11,Customer_639,Home Office,Hyderabad,West,Office Supplies,Storage,Product_16,6,420.65,0.34
+ORD10890,2025-10-11,Customer_890,Corporate,Mumbai,East,Office Supplies,Storage,Product_41,9,5188.83,0.49
+ORD10674,2025-05-06,Customer_674,Consumer,Delhi,Central,Office Supplies,Paper,Product_28,6,1690.27,0.15
+ORD10376,2024-10-01,Customer_376,Corporate,Mumbai,South,Office Supplies,Paper,Product_27,3,5689.93,0.37
+ORD10413,2024-10-28,Customer_413,Corporate,Hyderabad,Central,Office Supplies,Paper,Product_43,6,7220.42,0.2
+ORD10075,2024-02-24,Customer_75,Consumer,Pune,East,Office Supplies,Paper,Product_16,2,1476.12,0.35
+ORD10114,2024-03-23,Customer_114,Home Office,Bangalore,South,Technology,Machines,Product_28,9,8308.59,0.31
+ORD10573,2025-02-21,Customer_573,Consumer,Hyderabad,South,Technology,Phones,Product_10,7,5145.6,0.18
+ORD10644,2025-04-14,Customer_644,Consumer,Pune,East,Furniture,Chairs,Product_19,2,7084.35,0.03
+ORD10391,2024-10-11,Customer_391,Consumer,Mumbai,West,Office Supplies,Binders,Product_38,6,1729.53,0.3
+ORD10105,2024-03-16,Customer_105,Corporate,Mumbai,East,Technology,Phones,Product_32,6,2177.99,0.46
+ORD10115,2024-03-24,Customer_115,Consumer,Chennai,Central,Furniture,Tables,Product_11,7,5130.6,0.44
+ORD10418,2024-10-31,Customer_418,Consumer,Hyderabad,South,Office Supplies,Paper,Product_20,8,6730.57,0.36
+ORD10713,2025-06-04,Customer_713,Consumer,Pune,South,Furniture,Tables,Product_17,5,2614.45,0.22
+ORD10458,2024-11-29,Customer_458,Home Office,Delhi,Central,Office Supplies,Paper,Product_7,9,9244.28,0.5
+ORD10410,2024-10-25,Customer_410,Home Office, Pune ,East,Office Supplies,Paper,Product_4,3,1689.88,0.38
+ORD10093,2024-03-08,Customer_93,Consumer,Pune,West,Furniture,Tables,Product_21,4,2023.31,0.06
+ORD10954,2025-11-27,Customer_954,Corporate,Bangalore,Central,Technology,Accessories,Product_38,9,7561.83,0.1
+ORD10090,2024-03-06,Customer_90,Consumer,Delhi,Central,Furniture,Bookcases,Product_45,3,4509.98,0.18
+ORD10337,2024-09-02,Customer_337,Consumer,Pune,South,Furniture,Tables,Product_8,8,724.75,0.39
+ORD10994,2025-12-26,Customer_994,Corporate,Delhi,Central,Technology,Phones,Product_22,1,959.15,0.43
+ORD10926,2025-11-06,Customer_926,Consumer,Mumbai,Central,Office Supplies,Binders,Product_6,2,3498.68,0.18
+ORD10938,2025-11-15,Customer_938,Consumer,Mumbai,Central,Technology,Phones,Product_35,1,289.76,0.02
+ORD10901,2025-10-19,Customer_901,Home Office,Delhi,South,Technology,Accessories,Product_4,1,9483.18,0.23
+ORD10598,2025-03-12,Customer_598,Consumer,Delhi,West,Furniture,Tables,Product_38,2,8709.85,0.13
+ORD10616,2025-03-25,Customer_616,Corporate,Bangalore,South,Furniture,Chairs,Product_13,6,2210.11,0.09
+ORD10095,2024-03-09,,Home Office,Hyderabad,West,Furniture,Chairs,Product_37,9,8315.23,0.15
+ORD10012,2024-01-09,Customer_12,Corporate,Pune,South,Technology,Accessories,Product_3,5,2817.62,0.23
+ORD10397,2024-10-16,Customer_397,Home Office,Delhi,West,Office Supplies,Storage,Product_32,4,7542.53,0.44
+ORD10536,2025-01-25,Customer_536,Corporate,Pune,East,Office Supplies,Paper,Product_39,2,1839.15,0.34
+ORD10044,2024-02-01,Customer_44,Corporate,Chennai,West,Furniture,Chairs,Product_21,7,1456.51,0.45
+ORD10043,2024-01-31,Customer_43,Home Office,Hyderabad,South,Technology,Machines,Product_25,1,9518.83,0.05
+ORD10330,2024-08-28,Customer_330,Consumer,Mumbai,East,Technology,Machines,Product_24,1,8380.51,0.45
+ORD10168,2024-05-02,Customer_168,Corporate,Delhi,South,Furniture,Tables,Product_15,7,8142.03,0.23
+ORD10500,2024-12-30,Customer_500,Corporate,Hyderabad,East,Technology,Phones,Product_40,3,2638.49,0.49
+ORD10881,2025-10-05,Customer_881,Corporate,Bangalore,Central,Technology,Accessories,Product_24,5,9382.85,0.33
+ORD10602,2025-03-15,Customer_602,Home Office,Bangalore,South,Technology,Phones,Product_24,1,2661.24,0.21
+ORD10761,2025-07-09,Customer_761,Corporate,Hyderabad,South,Furniture,Tables,Product_10,1,5230.97,0.45
+ORD10101,2024-03-14,Customer_101,Corporate,Mumbai,South,Technology,Accessories,Product_33,3,7951.97,0.45
+ORD10427,2024-11-07,Customer_427,Consumer,Delhi,South,Office Supplies,Paper,Product_5,3,9955.56,0.01
+ORD10179,2024-05-10,Customer_179,Home Office,Bangalore,East,Furniture,Tables,Product_22,4,7315.81,0.06
+ORD10445,2024-11-20,Customer_445,Consumer,Bangalore,East,Office Supplies,Binders,Product_23,7,6382.11,0.36
+ORD10417,2024-10-30,Customer_417,Consumer,Chennai,Central,Office Supplies,Paper,Product_25,8,4815.59,0.09
+ORD10766,2025-07-13,Customer_766,Consumer,Hyderabad,East,Technology,Machines,Product_33,2,4501.81,0.3
+ORD10887,2025-10-09,Customer_887,Consumer,Mumbai,East,Furniture,Tables,Product_15,4,6347.39,0.33
+ORD10663,2025-04-28,Customer_663,Corporate,Bangalore,East,Furniture,Tables,Product_26,2,2698.6,0.22
+ORD10178,2024-05-09,Customer_178,Corporate,Pune,East,Office Supplies,Storage,Product_29,4,8778.48,0.47
+ORD10396,2024-10-15,Customer_396,Home Office,Mumbai,South,Office Supplies,Paper,Product_49,8,1113.43,0.1
+ORD10681,2025-05-11,Customer_681,Corporate,Delhi,Central,Furniture,Tables,Product_16,7,1475.79,0.44
+ORD10798,2025-08-05,Customer_798,Home Office,Chennai,Central,Office Supplies,Storage,Product_21,9,9990.59,0.16
+ORD10966,2025-12-06,Customer_966,Consumer,Hyderabad,Central,Office Supplies,Paper,Product_12,2,9070.76,0.01
+ORD10689,2025-05-17,Customer_689,Home Office,Chennai,Central,Office Supplies,Storage,Product_32,6,7815.72,0.29
+ORD10384,2024-10-06,Customer_384,Home Office,Hyderabad,South,Office Supplies,Binders,Product_11,7,2725.56,0.36
+ORD10962,2025-12-03,Customer_962,Consumer,Delhi,South,Office Supplies,Storage,Product_30,2,9287.34,0.18
+ORD10617,2025-03-26,Customer_617,Consumer,Pune,Central,Technology,Accessories,Product_25,5,8685.06,0.01
+ORD10258,2024-07-06,Customer_258,Home Office,Hyderabad,East,Furniture,Tables,Product_7,1,9373.57,0.36
+ORD10336,2024-09-01,Customer_336,Corporate,Bangalore,West,Furniture,Tables,Product_28,7,6272.84,0.05
+ORD10016,2024-01-11,Customer_16,Home Office,Mumbai,East,Furniture,Bookcases,Product_1,5,7417.01,0.44
+ORD10634,2025-04-07,Customer_634,Corporate,Mumbai,Central,Office Supplies,Binders,Product_26,8,8190.19,0.03
+ORD10325,2024-08-24,Customer_325,Home Office,Hyderabad,Central,Technology,Phones,Product_15,7,790.22,0.28
+ORD10763,2025-07-10,Customer_763,Consumer,Hyderabad,West,Furniture,Chairs,Product_31,8,1824.15,0.07
+ORD10223,2024-06-11,Customer_223,Consumer,Chennai,West,Office Supplies,Binders,Product_19,9,4854.91,0.31
+ORD10180,2024-05-10,Customer_180,Corporate,Delhi,East,furniture,Tables,Product_16,9,3084.48,0.19
+ORD10989,2025-12-22,Customer_989,Consumer,Bangalore,East,Furniture,Tables,Product_42,6,4292.47,0.02
+ORD10023,2024-01-17,Customer_23,Home Office,Delhi,South,Office Supplies,Storage,Product_49,4,5396.17,0.11
+ORD10357,2024-09-17,Customer_357,Consumer,Delhi,South,Furniture,Tables,Product_13,7,4307.04,0.14
+ORD10671,2025-05-04,Customer_671,Corporate,Pune,West,Furniture,Chairs,Product_32,2,8390.75,0.26
+ORD10866,2025-09-24,Customer_866,Consumer,Hyderabad,South,Technology,Accessories,Product_24,9,665.23,0.28
+ORD10341,2024-09-05,Customer_341,Home Office,Bangalore,Central,Furniture,Chairs,Product_6,1,1878.04,0.34
+ORD10432,2024-11-10,Customer_432,Corporate,Hyderabad,East,Technology,Phones,Product_4,9,2139.46,0.1
+ORD10830,2025-08-28,Customer_830,Home Office,Bangalore,West,Office Supplies,Paper,Product_22,6,6576.78,0.09
+ORD10838,2025-09-03,Customer_838,Consumer,Hyderabad,South,Technology,Machines,Product_41,6,6841.44,0.08
+ORD10204,2024-05-28,Customer_204,Consumer,Hyderabad,East,Office Supplies,Storage,Product_6,4,4365.5,0.32
+ORD10635,2025-04-08,Customer_635,Corporate,Chennai,East,Office Supplies,Binders,Product_27,7,235.25,0.46
+ORD10094,2024-03-08,Customer_94,Home Office,Mumbai,South,Technology,Accessories,Product_2,1,4527.29,0.29
+ORD10967,2025-12-06,Customer_967,Home Office,Bangalore,South,Technology,Phones,Product_39,4,648.91,0.0
+ORD10069,2024-02-19,Customer_69,Consumer,Hyderabad,East,Office Supplies,Paper,Product_5,6,523.12,0.1
+ORD10627,2025-04-02,Customer_627,Consumer,Chennai,East,Technology,Machines,Product_39,1,2789.48,0.45
+ORD10285,2024-07-26,Customer_285,Home Office,Chennai,West,Furniture,Chairs,Product_2,7,9293.11,0.13
+ORD10809,2025-08-13,Customer_809,Consumer,Hyderabad,Central,Furniture,Tables,Product_41,2,7448.76,0.26
+ORD10435,2024-11-13,Customer_435,Corporate,Bangalore,East,Office Supplies,Binders,Product_20,6,9859.46,0.15
+ORD10154,2024-04-21,Customer_154,Corporate,Chennai,East,Technology,Machines,Product_13,7,815.54,0.45
+ORD10076,2024-02-24,Customer_76,Home Office,Pune,Central,Office Supplies,Storage,Product_3,7,4456.7,0.45
+ORD10735,2025-06-20,Customer_735,Consumer,Pune,South,Technology,Phones,Product_28,5,6480.4,0.36
+ORD10447,2024-11-21,Customer_447,Corporate,Delhi,South,Office Supplies,Binders,Product_21,9,1295.39,0.25
+ORD10189,2024-05-17,Customer_189,Corporate,Chennai,East,Office Supplies,Storage,Product_2,3,639.67,0.48
+ORD10272,2024-07-17,Customer_272,Consumer,Bangalore,Central,Office Supplies,Storage,Product_42,9,3625.32,0.38
+ORD10237,2024-06-21,Customer_237,Consumer,Mumbai,South,Office Supplies,Paper,Product_9,7,9624.81,0.27
+ORD10488,2024-12-21,Customer_488,Corporate,Delhi,East,Furniture,Tables,Product_13,7,6671.05,0.4
+ORD10118,2024-03-26,Customer_118,Consumer,Bangalore,Central,Technology,Machines,Product_47,4,4833.77,0.36
+ORD10823,2025-08-23,Customer_823,Home Office,Delhi,East,Office Supplies,Storage,Product_19,4,9330.25,0.0
+ORD10513,2025-01-09,Customer_513,Home Office,Chennai,Central,Technology,Machines,Product_43,7,4491.28,0.01
+ORD10799,2025-08-06,Customer_799,Corporate,Chennai,West,Technology,Phones,Product_21,5,2281.24,0.11
+ORD10596,2025-03-10,Customer_596,Consumer,Chennai,South,Furniture,Tables,Product_32,7,835.91,0.49
+ORD10127,2024-04-02,Customer_127,Corporate,Hyderabad,East,Technology,Machines,Product_33,9,9248.32,0.1
+ORD10117,2024-03-25,Customer_117,Consumer,Chennai,Central,Furniture,Chairs,Product_39,5,4829.65,0.1
+ORD10474,2024-12-11,Customer_474,Corporate,Hyderabad,South,Furniture,Chairs,Product_50,7,8519.99,0.39
+ORD10698,2025-05-24,Customer_698,Home Office,Hyderabad,East,Furniture,Bookcases,Product_25,9,176.89,0.25
+ORD10058,2024-02-11,Customer_58,Consumer,Mumbai,Central,Furniture,Chairs,Product_16,8,7118.1,0.12
+ORD10679,2025-05-10,Customer_679,Consumer,Delhi,East,Furniture,Bookcases,Product_45,8,1153.48,0.06
+ORD10917,2025-10-31,Customer_917,Corporate,Chennai,Central,Technology,Machines,Product_38,3,8941.83,0.22
+ORD10370,2024-09-26,Customer_370,Home Office,Delhi,West,Technology,Accessories,Product_31,1,6210.47,0.13
+ORD10269,2024-07-14,Customer_269,Corporate,Pune,South,Office Supplies,Storage,Product_21,5,2149.24,0.3
+ORD10047,2024-02-03,Customer_47,Corporate,Hyderabad,South,Office Supplies,Paper,Product_45,3,4338.74,0.43
+ORD10350,2024-09-12,Customer_350,Consumer,Bangalore,Central,Technology,Machines,Product_6,6,2628.0,0.25
+ORD10196,2024-05-22,Customer_196,Corporate,Mumbai,Central,Office Supplies,Paper,Product_30,4,6945.02,0.25
+ORD10701,2025-05-26,Customer_701,Home Office,Delhi,South,Technology,Machines,Product_21,2,2854.85,0.33
+ORD10893,2025-10-13,Customer_893,Consumer,Chennai,South,Furniture,Tables,Product_47,8,5317.8,0.17
+ORD10741,2025-06-24,Customer_741,Corporate,Bangalore,West,Office Supplies,Binders,Product_30,1,2335.81,0.38
+ORD10264,2024-07-11,Customer_264,Corporate,Bangalore,West,Technology,Phones,Product_17,8,6179.92,0.16
+ORD10444,2024-11-19,Customer_444,Corporate,Mumbai,West,Furniture,Bookcases,Product_18,7,4090.01,0.17
+ORD10680,2025-05-11,Customer_680,Consumer,Pune,West,Office Supplies,Paper,Product_34,7,8235.35,0.16
+ORD10305,2024-08-10,Customer_305,Consumer,Mumbai,Central,Furniture,Bookcases,Product_47,8,1302.01,0.21
+ORD10342,2024-09-06,Customer_342,Consumer,Pune,East,Office Supplies,Paper,Product_21,3,2885.37,0.44
+ORD10603,2025-03-15,Customer_603,Home Office,Mumbai,South,Furniture,Chairs,Product_35,5,3537.2,0.38
+ORD10972,2025-12-10,Customer_972,Corporate,Delhi,South,Furniture,Tables,Product_30,1,2047.01,0.13
+ORD10150,2024-04-18,Customer_150,Home Office, Mumbai ,Central,Furniture,Chairs,Product_24,7,5221.21,0.22
+ORD10125,2024-03-31,Customer_125,Consumer,Chennai,South,Technology,Machines,Product_9,7,8276.82,0.22
+ORD10791,2025-07-31,Customer_791,Corporate,Chennai,West,Furniture,Bookcases,Product_39,4,8255.09,0.36
+ORD10827,2025-08-26,Customer_827,Home Office,Mumbai,East,Technology,Accessories,Product_38,9,4693.6,0.3
+ORD10051,2024-02-06,Customer_51,Corporate,Mumbai,West,Office Supplies,Paper,Product_5,4,4442.61,0.46
+ORD10354,2024-09-14,Customer_354,Consumer,Mumbai,South,Furniture,Bookcases,Product_29,5,4715.91,0.33
+ORD10932,2025-11-11,Customer_932,Home Office,Bangalore,South,Technology,Accessories,Product_23,3,6637.84,0.47
+ORD10143,2024-04-13,Customer_143,Consumer,Mumbai,Central,Office Supplies,Paper,Product_48,3,5308.22,0.27
+ORD10471,2024-12-09,Customer_471,Consumer,Bangalore,South,Technology,Phones,Product_14,1,2466.24,0.46
+ORD10400,2024-10-18,Customer_400,Home Office,Hyderabad,West,Technology,Accessories,Product_15,7,5374.99,0.31
+ORD10630,2025-04-04,Customer_630,Corporate,Hyderabad,South,Office Supplies,Binders,Product_32,2,996.54,0.13
+ORD10321,2024-08-21,Customer_321,Home Office,Mumbai,East,Furniture,Bookcases,Product_22,4,8574.41,0.17
+ORD10020,2024-01-14,Customer_20,Consumer,Chennai,West,Office Supplies,Storage,Product_48,9,7754.52,0.41
+ORD10814,2025-08-17,Customer_814,Home Office,Pune,West,Technology,Machines,Product_49,8,4503.91,0.37
+ORD10834,2025-08-31,Customer_834,Home Office,Mumbai,Central,Office Supplies,Binders,Product_36,6,4138.17,0.17
+ORD10882,2025-10-05,Customer_882,Consumer,Pune,East,Technology,Accessories,Product_5,6,3584.1,0.3
+ORD10408,2024-10-24,Customer_408,Home Office,Mumbai,East,Office Supplies,Paper,Product_19,6,7487.18,0.37
+ORD10538,2025-01-27,Customer_538,Corporate,Bangalore,West,Office Supplies,Storage,Product_49,7,7182.27,0.23
+ORD10868,2025-09-25,Customer_868,Home Office,Delhi,West,Technology,Machines,Product_45,8,6702.67,0.11
+ORD10039,2024-01-28,Customer_39,Corporate,Chennai,West,Furniture,Bookcases,Product_12,4,280.92,0.4
+ORD10176,2024-05-07,Customer_176,Consumer,Mumbai,South,Furniture,Tables,Product_9,5,2895.44,0.43
+ORD10246,2024-06-28,Customer_246,Home Office,Bangalore,Central,Technology,Machines,Product_9,7,3643.82,0.2
+ORD10833,2025-08-30,Customer_833,Consumer,Pune,South,Office Supplies,Storage,Product_43,2,2307.8,0.33
+ORD10738,2025-06-22,Customer_738,Corporate,Delhi,Central,Furniture,Chairs,Product_2,8,6392.76,0.4
+ORD10759,2025-07-07,Customer_759,Corporate,Pune,South,Technology,Machines,Product_15,1,120.56,0.19
+ORD10906,2025-10-23,Customer_906,Home Office,Chennai,South,Furniture,Bookcases,Product_25,5,2108.25,0.11
+ORD10155,2024-04-22,Customer_155,Consumer,Hyderabad,West,Furniture,Bookcases,Product_5,7,5800.28,0.0
+ORD10288,2024-07-28,Customer_288,Consumer,Pune,Central,Office Supplies,Paper,Product_12,3,2724.3,0.48
+ORD10614,2025-03-23,Customer_614,Consumer,Hyderabad,East,Technology,Phones,Product_9,9,6914.55,0.13
+ORD10570,2025-02-19,Customer_570,Consumer,Hyderabad,South,Furniture,Bookcases,Product_8,5,7940.73,0.28
+ORD10969,2025-12-08,Customer_969,Home Office,Bangalore,South,Office Supplies,Storage,Product_13,7,,0.2
+ORD10018,2024-01-13,Customer_18,Home Office,Mumbai,Central,Office Supplies,Binders,Product_38,1,8169.21,0.11
+ORD10128,2024-04-02,Customer_128,Corporate,Pune,South,Furniture,Bookcases,Product_33,3,8221.21,0.38
+ORD10323,2024-08-23,Customer_323,Home Office,Pune,West,Office Supplies,Storage,Product_39,8,8070.66,0.17
+ORD10256,2024-07-05,Customer_256,Corporate,Chennai,East,Technology,Machines,Product_44,6,4241.08,0.48
+ORD10985,2025-12-20,Customer_985,Home Office,Chennai,East,Furniture,Bookcases,Product_37,2,5788.36,0.3
+ORD10970,2025-12-09,Customer_970,Corporate,Pune,East,Office Supplies,Binders,Product_8,2,2663.72,0.43
+ORD10191,2024-05-18,Customer_191,Corporate,Hyderabad,East,Furniture,Chairs,Product_45,2,5042.07,0.24
+ORD10116,2024-03-25,Customer_116,Home Office,Mumbai,,Office Supplies,Paper,Product_14,3,6240.39,0.48
+ORD10621,2025-03-29,Customer_621,Corporate,Mumbai,Central,Furniture,Tables,Product_40,9,1060.09,0.22
+ORD10607,2025-03-18,Customer_607,Consumer,Mumbai,East,Office Supplies,Paper,Product_17,1,6829.08,0.34
+ORD10181,2024-05-11,Customer_181,Consumer,Delhi,Central,Furniture,Bookcases,Product_41,6,6033.79,0.01
+ORD10302,2024-08-07,Customer_302,Home Office,Pune,West,Furniture,Chairs,Product_32,8,8993.72,0.38
+ORD10889,2025-10-10,Customer_889,Corporate,Mumbai,Central,Furniture,Tables,Product_12,7,7235.18,0.38
+ORD10717,2025-06-07,Customer_717,Home Office,Delhi,West,Office Supplies,Paper,Product_15,4,2784.31,0.05
+ORD10850,2025-09-12,Customer_850,Home Office,Chennai,West,Furniture,Tables,Product_40,4,8267.85,0.22
+ORD10690,2025-05-18,Customer_690,Corporate,Bangalore,West,Furniture,Chairs,Product_35,7,5272.72,0.05
+ORD10666,2025-04-30,Customer_666,Home Office,Hyderabad,Central,office supplies,Binders,Product_4,3,1331.78,0.27
+ORD10518,2025-01-12,Customer_518,Consumer,Bangalore,,Technology,Accessories,Product_48,8,6922.3,0.16
+ORD10990,2025-12-23,Customer_990,Consumer,Mumbai,West,Office Supplies,Storage,Product_42,6,4578.43,0.29
+ORD10046,2024-02-02,Customer_46,Home Office,Bangalore,South,Technology,Accessories,Product_25,1,1930.71,0.49
+ORD10914,2025-10-29,Customer_914,Consumer,Bangalore,East,Office Supplies,Storage,Product_22,5,8400.16,0.45
+ORD10158,2024-04-24,Customer_158,Home Office,Hyderabad,East,Furniture,Chairs,Product_3,1,3667.9,0.31
+ORD10818,2025-08-20,Customer_818,Corporate,Bangalore,Central,Technology,Machines,Product_19,3,8229.31,0.15
+ORD10172,2024-05-04,Customer_172,Consumer,Pune,Central,Office Supplies,Storage,Product_26,4,5857.49,0.09
+ORD10017,2024-01-12,Customer_17,Corporate,Hyderabad,West,Office Supplies,Paper,Product_38,6,6896.49,0.14
+ORD10512,2025-01-08,Customer_512,Corporate,Mumbai,East,Office Supplies,Storage,Product_46,5,7201.89,0.09
+ORD10049,2024-02-05,Customer_49,Home Office,Bangalore,East,Office Supplies,Storage,Product_32,6,2316.85,0.02
+ORD10977,2025-12-14,Customer_977,Consumer,Delhi,East,Office Supplies,Storage,Product_47,4,5502.12,0.22
+ORD10845,2025-09-08,Customer_845,Consumer,Delhi,Central,Technology,Accessories,Product_28,3,5924.82,0.25
+ORD10516,2025-01-11,Customer_516,Corporate,Mumbai,South,Furniture,Bookcases,Product_45,6,4807.09,0.45
+ORD10828,2025-08-27,Customer_828,Consumer,Hyderabad,Central,Office Supplies,Paper,Product_37,7,7912.05,0.2
+ORD10481,2024-12-16,Customer_481,Consumer,Delhi,West,Furniture,Chairs,Product_20,2,1420.11,0.13
+ORD10284,2024-07-25,Customer_284,Corporate,Delhi,South,Office Supplies,Binders,Product_45,4,7072.92,0.41
+ORD10723,2025-06-11,Customer_723,Home Office,Mumbai,East,furniture,Chairs,Product_27,2,8675.65,0.12
+ORD10685,2025-05-14,Customer_685,Corporate,Chennai,Central,Furniture,Bookcases,Product_8,5,7140.48,0.13
+ORD10226,2024-06-13,Customer_226,Corporate,Mumbai,West,Office Supplies,Paper,Product_40,5,1217.15,0.42
+ORD10027,2024-01-19,Customer_27,Consumer,Hyderabad,West,Furniture,Tables,Product_50,2,5668.05,0.22
+ORD10787,2025-07-28,Customer_787,Home Office,Delhi,East,Furniture,Bookcases,Product_43,4,7671.28,0.24
+ORD10438,2024-11-15,Customer_438,Home Office,Delhi,East,Furniture,Chairs,Product_14,6,3247.26,0.18
+ORD10976,2025-12-13,Customer_976,Consumer,Mumbai,West,Furniture,Bookcases,Product_21,5,2308.55,0.25
+ORD10365,2024-09-22,Customer_365,Consumer,Mumbai,Central,Technology,Machines,Product_48,3,6205.46,0.09
+ORD10230,2024-06-16,Customer_230,Corporate,Delhi,West,Technology,Phones,Product_43,2,3866.77,0.04
+ORD10038,2024-01-28,Customer_38,Consumer,Delhi,West,Technology,Accessories,Product_4,4,1306.61,0.16
+ORD10971,2025-12-09,Customer_971,Home Office,Bangalore,East,technology,Accessories,Product_28,6,8799.59,0.4
+ORD10375,2024-09-30,Customer_375,Home Office,Hyderabad,East,Office Supplies,Storage,Product_45,8,8698.71,0.29
+ORD10470,2024-12-08,Customer_470,Corporate,Bangalore,West,Technology,Machines,Product_46,2,4110.97,0.38
+ORD10973,2025-12-11,Customer_973,Corporate,Mumbai,West,Technology,Accessories,Product_9,7,9478.27,0.12
+ORD10855,2025-09-16,Customer_855,Consumer,Pune,South,Furniture,Bookcases,Product_16,6,2824.18,0.18
+ORD10709,2025-06-01,Customer_709,Home Office,Bangalore,South,Furniture,Bookcases,Product_50,6,1278.31,0.1
+ORD10844,2025-09-08,Customer_844,Home Office,Chennai,South,Office Supplies,Paper,Product_40,7,7542.77,0.46
+ORD10195,2024-05-21,Customer_195,Consumer,Bangalore,Central,Technology,Machines,Product_46,4,4925.11,0.05
+ORD10859,2025-09-18,Customer_859,Corporate,Chennai,South,Office Supplies,Binders,Product_44,2,9147.38,0.24
+ORD10869,2025-09-26,Customer_869,Home Office,Delhi,West,Technology,Phones,Product_25,2,1115.04,0.26
+ORD10504,2025-01-02,Customer_504,Home Office,Bangalore,West,Office Supplies,Binders,Product_8,7,5128.69,0.2
+ORD10975,2025-12-12,Customer_975,Consumer,Hyderabad,South,Furniture,Bookcases,Product_31,5,6175.46,0.17
+ORD10835,2025-09-01,Customer_835,Corporate,Pune,West,Technology,Phones,Product_13,4,3543.05,0.37
+ORD10580,2025-02-27,Customer_580,Home Office,Mumbai,Central,Office Supplies,Paper,Product_36,3,600.02,0.17
+ORD10974,2025-12-12,Customer_974,Home Office,Hyderabad,South,Office Supplies,Paper,Product_39,9,2135.65,0.11
+ORD10163,2024-04-28,Customer_163,Corporate,Mumbai,Central,Office Supplies,Paper,Product_49,5,5485.33,0.23
+ORD10707,2025-05-30,Customer_707,Consumer,Hyderabad,Central,Technology,Phones,Product_45,2,9384.48,0.13
+ORD10153,2024-04-21,Customer_153,Consumer,Mumbai,East,Technology,Phones,Product_7,8,4182.43,0.43
+ORD10686,2025-05-15,Customer_686,Corporate,Chennai,West,Furniture,Tables,Product_8,9,167.29,0.44
+ORD10705,2025-05-29,Customer_705,Home Office,Hyderabad,Central,Office Supplies,Binders,Product_4,3,4232.18,0.35
+ORD10760,2025-07-08,Customer_760,Home Office,Hyderabad,West,Technology,Accessories,Product_9,3,2681.02,0.22
+ORD10112,2024-03-22,Customer_112,Corporate,Hyderabad,South,Office Supplies,Binders,Product_9,1,7088.97,0.17
+ORD10227,2024-06-14,Customer_227,Home Office,Mumbai,West,Office Supplies,Binders,Product_4,2,6004.7,0.07
+ORD10693,2025-05-20,Customer_693,Consumer,Mumbai,Central,Technology,Phones,Product_12,7,4110.57,0.39
+ORD10104,2024-03-16,Customer_104,Corporate,Pune,Central,Furniture,Tables,Product_43,4,9513.1,0.12
+ORD10422,2024-11-03,Customer_422,Home Office,Pune,Central,Furniture,Tables,Product_24,7,1633.09,0.37
+ORD10420,2024-11-02,Customer_420,Consumer,Bangalore,Central,Office Supplies,Binders,Product_19,6,3050.27,0.34
+ORD10755,2025-07-04,Customer_755,Corporate,Mumbai,South,Office Supplies,Paper,Product_48,9,4633.84,0.14
+ORD10587,2025-03-04,Customer_587,Corporate,Bangalore,Central,Technology,Accessories,Product_38,5,8254.09,0.18
+ORD10785,2025-07-26,Customer_785,Consumer,Hyderabad,East,Technology,Machines,Product_12,3,483.69,0.37
+ORD10673,2025-05-06,Customer_673,Corporate,Delhi,East,Furniture,Bookcases,Product_38,8,8901.22,0.21
+ORD10120,2024-03-27,Customer_120,Consumer,Bangalore,East,Office Supplies,Storage,Product_15,9,6322.81,0.17
+ORD10054,2024-02-08,Customer_54,Consumer,Bangalore,West,Furniture,Chairs,Product_42,2,7400.36,0.4
+ORD10152,2024-04-20,Customer_152,Corporate,Pune,East,furniture,Tables,Product_17,2,2073.52,0.15
+ORD10404,2024-10-21,Customer_404,Home Office,Delhi,South,Technology,Machines,Product_16,3,4001.49,0.42
+ORD10950,2025-11-24,Customer_950,Consumer,Bangalore,Central,Office Supplies,Storage,Product_5,6,9219.32,0.26
+ORD10208,2024-05-31,Customer_208,Corporate,Bangalore,East,Technology,Phones,Product_36,4,8346.08,0.18
+ORD10659,2025-04-25,Customer_659,Consumer,Mumbai,West,Technology,Phones,Product_37,7,9265.69,0.07
+ORD10848,2025-09-10,Customer_848,Corporate,Hyderabad,East,Furniture,Bookcases,Product_18,3,735.96,0.44
+ORD10836,2025-09-02,Customer_836,Corporate,Pune,South,Technology,Machines,Product_32,5,314.29,0.27
+ORD10009,2024-01-06,Customer_9,Corporate,Chennai,South,Technology,Machines,Product_28,8,1169.49,0.17
+ORD10812,2025-08-15,Customer_812,Corporate,Chennai,South,Office Supplies,Binders,Product_11,7,6253.04,0.34
+ORD10037,2024-01-27,Customer_37,Home Office,Bangalore,West,Technology,Phones,Product_1,3,9545.02,0.17
+ORD10453,2024-11-26,Customer_453,Consumer,Hyderabad,South,Office Supplies,Storage,Product_41,3,1082.37,0.04
+ORD10652,2025-04-20,Customer_652,Consumer,Delhi,East,Furniture,Chairs,Product_25,6,8463.5,0.5
+ORD10254,2024-07-03,Customer_254,Consumer,Mumbai,South,Furniture,Chairs,Product_37,3,7038.57,0.3
+ORD10304,2024-08-09,Customer_304,Corporate,Hyderabad,Central,Furniture,Bookcases,Product_38,6,1328.66,0.19
+ORD10751,2025-07-02,Customer_751,Corporate,Mumbai,West,Technology,Machines,Product_43,2,620.49,0.13
+ORD10572,2025-02-21,Customer_572,Corporate,Mumbai,South,Furniture,Chairs,Product_30,7,2583.65,0.01
+ORD10624,2025-03-31,Customer_624,Consumer,Mumbai,East,Furniture,Chairs,Product_42,9,671.64,0.16
+ORD10714,2025-06-05,Customer_714,Corporate,Bangalore,East,Office Supplies,Storage,Product_36,8,8789.15,0.14
+ORD10724,2025-06-12,Customer_724,Corporate,Pune,South,Furniture,Tables,Product_45,9,8728.7,0.34
+ORD10263,2024-07-10,Customer_263,Corporate,Mumbai,West,Technology,Machines,Product_29,9,8436.86,0.11
+ORD10611,2025-03-21,Customer_611,Home Office,Hyderabad,Central,Technology,Phones,Product_42,1,7903.19,0.43
+ORD10298,2024-08-05,Customer_298,Home Office,Delhi,West,Office Supplies,Paper,Product_12,8,667.37,0.35
+ORD10415,2024-10-29,Customer_415,Consumer,Mumbai,West,Office Supplies,Binders,Product_10,1,3230.53,0.09
+ORD10151,2024-04-19,Customer_151,Corporate,Mumbai,South,Office Supplies,Paper,Product_26,6,4189.76,0.07
+ORD10793,2025-08-01,Customer_793,Corporate,Delhi,Central,Furniture,Tables,Product_31,2,8675.22,0.04
+ORD10641,2025-04-12,Customer_641,Home Office,Chennai,South,Furniture,Tables,Product_12,2,5187.28,0.36
+ORD10894,2025-10-14,Customer_894,Home Office,Mumbai,Central,Office Supplies,Storage,Product_34,6,5867.08,0.37
+ORD10551,2025-02-05,Customer_551,Corporate,Bangalore,Central,Furniture,Tables,Product_20,1,3583.66,0.07
+ORD10802,2025-08-08,Customer_802,Consumer,Mumbai,South,Office Supplies,Paper,Product_6,4,4936.57,0.25
+ORD10489,2024-12-22,Customer_489,Consumer,Delhi,West,Technology,Phones,Product_13,2,1270.56,0.19
+ORD10148,2024-04-17,Customer_148,Corporate,Chennai,East,Technology,Machines,Product_29,9,4777.9,0.35
+ORD10147,2024-04-16,Customer_147,Consumer,Pune,West,Technology,Phones,Product_49,6,4765.95,0.46
+ORD10897,2025-10-16,Customer_897,Corporate,Delhi,East,Furniture,Chairs,Product_50,3,7301.78,0.27
+ORD10936,2025-11-14,Customer_936,Consumer,Hyderabad,West,Technology,Phones,Product_21,8,9508.04,0.32
+ORD10744,2025-06-26,Customer_744,Consumer,Mumbai,East,Furniture,Chairs,Product_32,3,4497.42,0.37
+ORD10660,2025-04-26,Customer_660,Home Office,Chennai,East,Office Supplies,Paper,Product_6,8,6633.94,0.22
+ORD10349,2024-09-11,Customer_349,Corporate,Pune,East,Furniture,Chairs,Product_48,9,1230.95,0.09
+ORD10464,2024-12-04,Customer_464,Consumer,Pune,South,Furniture,Chairs,Product_22,6,2498.35,0.48
+ORD10326,2024-08-25,Customer_326,Consumer,Mumbai,South,Office Supplies,Paper,Product_4,6,8944.71,0.29
+ORD10187,2024-05-15,Customer_187,Corporate,Mumbai,South,Technology,Phones,Product_19,6,5872.97,0.15
+ORD10124,2024-03-30,Customer_124,Home Office,Bangalore,Central,Technology,Machines,Product_43,9,7482.6,0.32
+ORD10858,2025-09-18,Customer_858,Corporate,Chennai,Central,Furniture,Chairs,Product_38,8,3448.49,0.31
+ORD10609,2025-03-20,Customer_609,Consumer,Mumbai,Central,Technology,Machines,Product_31,2,6140.94,0.4
+ORD10144,2024-04-14,Customer_144,Home Office,Delhi,East,Office Supplies,Paper,Product_47,2,7617.18,0.03
+ORD10964,2025-12-04,Customer_964,Consumer,Bangalore,South,Furniture,Tables,Product_28,1,123.0,0.19
+ORD10198,2024-05-23,Customer_198,Consumer,Mumbai,West,Technology,Accessories,Product_18,9,6279.98,0.2
+ORD10610,2025-03-21,Customer_610,Corporate,Hyderabad,South,Office Supplies,Storage,Product_31,9,9429.48,0.41
+ORD10280,2024-07-22,Customer_280,Home Office,Bangalore,East,Furniture,Tables,Product_16,9,2936.09,0.37
+ORD10294,2024-08-02,Customer_294,Home Office,Pune,East,Furniture,Tables,Product_17,2,1103.66,0.01
+ORD10401,2024-10-19,Customer_401,Corporate,Pune,West,Office Supplies,Binders,Product_43,9,8620.61,0.32
+ORD10123,2024-03-30,Customer_123,Corporate,Mumbai,South,Office Supplies,Storage,Product_8,9,5357.98,0.47
+ORD10184,2024-05-13,Customer_184,Corporate,Delhi,Central,Furniture,Tables,Product_7,6,1237.57,0.32
+ORD10203,2024-05-27,Customer_203,Consumer,Delhi,South,Furniture,Tables,Product_22,6,3062.4,0.42
+ORD10439,2024-11-16,Customer_439,Corporate,Bangalore,South,Technology,Accessories,Product_11,4,186.89,0.08
+ORD10247,2024-06-28,Customer_247,Home Office,Delhi,South,Technology,Machines,Product_37,2,3403.24,0.49
+ORD10416,2024-10-30,Customer_416,Corporate,Chennai,Central,Furniture,Chairs,Product_43,3,8465.21,0.34
+ORD10781,2025-07-23,Customer_781,Corporate,Bangalore,West,Furniture,Tables,Product_14,9,3087.82,0.32
+ORD10983,2025-12-18,Customer_983,Corporate,Bangalore,Central,Office Supplies,Paper,Product_22,5,8201.25,0.12
+ORD10911,2025-10-26,Customer_911,Corporate,Mumbai,Central,Technology,Accessories,Product_25,9,9668.93,0.13
+ORD10864,2025-09-22,Customer_864,Consumer,Pune,West,Technology,Accessories,Product_12,2,7025.39,0.45
+ORD10892,2025-10-13,Customer_892,Consumer,Pune,Central,Furniture,Tables,Product_26,8,6355.61,0.04
+ORD10130,2024-04-04,Customer_130,Home Office,Bangalore,Central,Office Supplies,Binders,Product_3,2,6746.92,0.07
+ORD10638,2025-04-10,,Corporate,Pune,South,Furniture,Tables,Product_13,4,2472.49,0.3
+ORD10403,2024-10-20,Customer_403,Consumer,Bangalore,South,Technology,Accessories,Product_3,8,204.46,0.06
+ORD10789,2025-07-29,Customer_789,Consumer,Pune,West,Furniture,Chairs,Product_42,7,8087.06,0.34
+ORD10775,2025-07-19,Customer_775,Consumer,Hyderabad,Central,Furniture,Tables,Product_9,2,5584.4,0.46
+ORD10736,2025-06-21,Customer_736,Corporate,Hyderabad,East,Furniture,Tables,Product_25,3,1910.36,0.11
+ORD10918,2025-11-01,Customer_918,Consumer,Chennai,South,Furniture,Chairs,Product_15,4,6925.23,0.2
+ORD10220,not available,Customer_220,Consumer,Mumbai,West,Furniture,Bookcases,Product_42,4,5875.87,0.06
+ORD10642,2025-04-13,Customer_642,Consumer,Hyderabad,Central,Furniture,Bookcases,Product_44,2,7986.78,0.29
+ORD10920,2025-11-02,Customer_920,Home Office,Pune,West,Technology,Phones,Product_15,8,6969.25,0.29
+ORD10757,2025-07-06,Customer_757,Consumer,Hyderabad,West,Furniture,Bookcases,Product_40,3,4368.98,0.35
+ORD10811,2025-08-14,Customer_811,Home Office,Chennai,West,Furniture,Bookcases,Product_35,8,3225.86,0.35
+ORD10924,2025-11-05,Customer_924,Consumer,Pune,,Office Supplies,Paper,Product_24,2,866.37,0.36
+ORD10625,2025-03-31,Customer_625,Consumer,Bangalore,East,Furniture,Chairs,Product_15,8,8465.62,0.1
+ORD10843,2025-09-07,Customer_843,Corporate,Delhi,East,Technology,Machines,Product_46,9,7701.98,0.19
+ORD10765,2025-07-12,Customer_765,Home Office,Bangalore,South,Furniture,Bookcases,Product_30,2,7173.15,0.48
+ORD10387,2024-10-09,Customer_387,Corporate,Bangalore,South,Technology,Phones,Product_30,6,4249.45,0.06
+ORD10978,2025-12-14,Customer_978,Consumer,Chennai,Central,Office Supplies,Storage,Product_34,3,6871.35,0.11
+ORD10510,2025-01-06,Customer_510,Corporate,Pune,Central,Furniture,Bookcases,Product_20,4,3661.23,0.21
+ORD10268,2024-07-14,Customer_268,Corporate,Bangalore,South,Technology,Accessories,Product_3,6,5880.8,0.11
+ORD10824,2025-08-24,Customer_824,Home Office,Mumbai,West,Office Supplies,Storage,Product_38,7,8596.25,0.14
+ORD10442,2024-11-18,Customer_442,Home Office,Hyderabad,East,Technology,Accessories,Product_18,6,470.23,0.44
+ORD10497,2024-12-28,Customer_497,Consumer,Chennai,West,Office Supplies,Paper,Product_11,4,867.08,0.0
+ORD10113,2024-03-22,Customer_113,Consumer,Delhi,East,Furniture,Bookcases,Product_42,9,5086.52,0.09
+ORD10692,2025-05-19,Customer_692,Corporate,Pune,Central,Furniture,Tables,Product_3,7,7884.68,0.19
+ORD10233,2024-06-18,Customer_233,Home Office,Pune,,Technology,Phones,Product_30,7,4018.2,0.17
+ORD10874,2025-09-29,Customer_874,Consumer,Delhi,West,Technology,Accessories,Product_9,1,9832.34,0.39
+ORD10608,2025-03-19,Customer_608,Home Office,Chennai,South,Office Supplies,Binders,Product_1,9,5744.8,0.32
+ORD10672,2025-05-05,Customer_672,Consumer,Mumbai,South,Technology,Phones,Product_38,3,3297.6,0.01
+ORD10374,2024-09-29,Customer_374,Consumer,Delhi,South,Office Supplies,Binders,Product_3,6,9933.33,0.06
+ORD10987,2025-12-21,Customer_987,Corporate,Hyderabad,West,Furniture,Chairs,Product_1,4,5181.28,0.44
+ORD10847,2025-09-10,Customer_847,Consumer,Hyderabad,West,Technology,Machines,Product_42,1,1060.48,0.46
+ORD10234,2024-06-19,Customer_234,Home Office,Bangalore,Central,Office Supplies,Paper,Product_43,5,6170.2,0.11
+ORD10790,2025-07-30,Customer_790,Consumer,Delhi,West,Office Supplies,Paper,Product_11,5,2592.89,0.45
+ORD10677,2025-05-08,Customer_677,Consumer,Delhi,Central,Furniture,Bookcases,Product_28,6,1283.36,0.1
+ORD10318,2024-08-19,Customer_318,Corporate,Hyderabad,East,Office Supplies,Binders,Product_27,3,7766.75,0.26
+ORD10649,2025-04-18,Customer_649,Consumer,Chennai,South,Office Supplies,Binders,Product_16,3,1935.55,0.45
+ORD10411,2024-10-26,Customer_411,Corporate,Mumbai,Central,Furniture,Chairs,Product_29,6,5419.67,0.05
+ORD10903,2025-10-21,Customer_903,Corporate,Chennai,West,Office Supplies,Binders,Product_48,7,1336.21,0.13
+ORD10710,2025-06-02,Customer_710,Home Office,Hyderabad,West,Technology,Machines,Product_49,9,782.39,0.07
+ORD10359,2024-09-18,Customer_359,Home Office,Pune,South,Office Supplies,Storage,Product_18,4,7218.85,0.47
+ORD10259,2024-07-07,Customer_259,Home Office,Mumbai,East,Technology,Accessories,Product_28,2,5205.2,0.41
+ORD10745,2025-06-27,Customer_745,Consumer,Pune,West,Furniture,Chairs,Product_50,1,1456.82,0.36
+ORD10628,2025-04-03,Customer_628,Corporate,Delhi,East,Office Supplies,Binders,Product_13,4,1127.19,0.27
+ORD10633,2025-04-06,Customer_633,Consumer,Delhi,East,Technology,Accessories,Product_20,6,8533.27,0.25
+ORD10283,2024-07-25,Customer_283,Corporate,Mumbai,Central,Technology,Phones,Product_40,2,8381.66,0.33
+ORD10377,2024-10-01,Customer_377,Consumer,Bangalore,East,Furniture,Tables,Product_35,1,5214.61,0.16
+ORD10385,2024-10-07,Customer_385,Home Office,Bangalore,West,Technology,Accessories,Product_21,4,1780.62,0.26
+ORD10225,2024-06-12,Customer_225,Corporate, Hyderabad ,West,Furniture,Chairs,Product_14,3,2269.35,0.06
+ORD10959,2025-12-01,Customer_959,Corporate,Delhi,Central,Furniture,Chairs,Product_2,6,8343.67,0.14
+ORD10948,2025-11-23,Customer_948,Consumer,Hyderabad,East,Technology,Accessories,Product_8,6,4887.39,0.01
+ORD10473,2024-12-10,Customer_473,Consumer,Hyderabad,Central,Technology,Machines,Product_20,9,6439.77,0.16
+ORD10348,2024-09-10,Customer_348,Consumer,Pune,West,Office Supplies,Storage,Product_50,5,8472.11,0.14
+ORD10506,2025-01-04,Customer_506,Home Office,Chennai,East,Furniture,Tables,Product_40,9,3176.08,0.11
+ORD10640,2025-04-11,Customer_640,Corporate,Hyderabad,West,Technology,Machines,Product_9,2,3424.85,0.26
+ORD10993,2025-12-25,Customer_993,Corporate,Chennai,South,Office Supplies,Storage,Product_17,6,5495.32,0.27
+ORD10933,2025-11-12,Customer_933,Home Office,Hyderabad,Central,Technology,Phones,Product_4,9,8111.03,0.2
+ORD10910,2025-10-26,Customer_910,Home Office,Bangalore,South,Technology,Accessories,Product_21,5,9948.27,0.25
+ORD10620,2025-03-28,Customer_620,Home Office,Mumbai,South,Technology,Accessories,Product_12,2,8837.89,0.22
+ORD10860,2025-09-19,Customer_860,Corporate,Delhi,South,Furniture,Bookcases,Product_27,4,9812.34,0.2
+ORD10808,2025-08-12,Customer_808,Consumer,Pune,Central,Office Supplies,Paper,Product_8,7,1377.95,0.17
+ORD10646,2025-04-16,Customer_646,Corporate,Delhi,South,Technology,Phones,Product_35,9,7530.92,0.09
+ORD10851,2025-09-13,Customer_851,Home Office,Bangalore,South,Office Supplies,Binders,Product_33,7,8597.47,0.17
+ORD10557,2025-02-10,Customer_557,Consumer,Bangalore,Central,Furniture,Bookcases,Product_15,9,7682.1,0.48
+ORD10963,2025-12-03,Customer_963,Corporate,Delhi,South,Technology,Machines,Product_11,1,,0.31
+ORD10578,2025-02-25,Customer_578,Home Office,Chennai,South,Office Supplies,Binders,Product_13,6,666.64,0.36
+ORD10796,2025-08-03,Customer_796,Home Office,Hyderabad,Central,Furniture,Tables,Product_32,8,2724.62,0.12
+ORD10086,2024-03-03,Customer_86,Consumer,Chennai,West,Office Supplies,Storage,Product_46,5,5086.71,0.24
+ORD10243,2024-06-25,Customer_243,Home Office,Hyderabad,South,Technology,Phones,Product_25,1,4344.77,0.19
+ORD10699,2025-05-25,Customer_699,Consumer,Bangalore,East,Furniture,Chairs,Product_41,7,4971.71,0.04
+ORD10160,2024-04-26,Customer_160,Home Office,Hyderabad,West,Technology,Phones,Product_49,4,2101.28,0.11
+ORD10525,2025-01-17,Customer_525,Home Office,Delhi,Central,Furniture,Tables,Product_37,9,8752.74,0.44
+ORD10036,2024-01-26,Customer_36,Consumer,Pune,South,Office Supplies,Paper,Product_5,3,3326.23,0.08
+ORD10541,2025-01-29,Customer_541,Corporate,Mumbai,South,Office Supplies,Binders,Product_30,2,194.48,0.39
+ORD10171,2024-05-04,Customer_171,Consumer,Pune,West,Office Supplies,Binders,Product_32,3,5747.05,0.23
+ORD10655,2025-04-22,Customer_655,Home Office,Mumbai,South,Technology,Accessories,Product_13,1,6578.03,0.21
+ORD10895,2025-10-15,Customer_895,Home Office,Pune,West,Office Supplies,Binders,Product_23,4,6869.5,0.22
+ORD10862,2025-09-21,Customer_862,Corporate,Chennai,Central,Technology,Phones,Product_47,1,8187.21,0.01
+ORD10852,2025-09-13,Customer_852,Corporate,Chennai,South,Furniture,Chairs,Product_12,3,4689.86,0.36
+ORD10949,2025-11-23,Customer_949,Corporate,Delhi,West,Furniture,Tables,Product_11,8,245.01,0.26
+ORD10734,2025-06-19,Customer_734,Consumer,Delhi,South,Office Supplies,Binders,Product_49,7,224.7,0.47
+ORD10096,2024-03-10,Customer_96,Home Office,Chennai,Central,Furniture,Chairs,Product_6,3,6581.78,0.02
+ORD10564,2025-02-15,Customer_564,Home Office,Bangalore,East,Technology,Machines,Product_40,7,4624.89,0.19
+ORD10241,2024-06-24,Customer_241,Consumer,Chennai,Central,Furniture,Tables,Product_15,2,6700.64,0.09
+ORD10743,2025-06-26,Customer_743,Consumer,Chennai,Central,Technology,Machines,Product_13,8,8675.71,0.27
+ORD10575,2025-02-23,Customer_575,Corporate,Bangalore,South,Office Supplies,Binders,Product_28,3,7873.38,0.42
+ORD10691,2025-05-19,Customer_691,Home Office,Delhi,East,Technology,Phones,Product_10,3,6446.15,0.37
+ORD10461,2024-12-02,Customer_461,Corporate,Pune,South,Furniture,Bookcases,Product_15,5,2432.32,0.07
+ORD10554,2025-02-08,Customer_554,Home Office,Mumbai,West,Furniture,Tables,Product_24,6,1334.01,0.04
+ORD10883,2025-10-06,Customer_883,Corporate,Bangalore,Central,Furniture,Bookcases,Product_3,8,4516.88,0.21
+ORD10207,2024-05-30,Customer_207,Corporate,Delhi,Central,Office Supplies,Paper,Product_40,9,7983.38,0.46
+ORD10393,2024-10-13,Customer_393,Corporate,Bangalore,Central,Furniture,Bookcases,Product_14,5,3242.15,0.06
+ORD10795,2025-08-03,Customer_795,Corporate,Hyderabad,Central,Office Supplies,Binders,Product_33,9,3035.72,0.43
+ORD10398,2024-10-17,Customer_398,Consumer,Pune,South,technology,Accessories,Product_36,8,9071.71,0.1
+ORD10767,2025-07-13,Customer_767,Consumer,Delhi,West,Technology,Accessories,Product_9,9,368.1,0.49
+ORD10853,2025-09-14,Customer_853,Consumer,Chennai,East,Office Supplies,Storage,Product_8,1,7864.29,0.14
+ORD10218,2024-06-07,Customer_218,Consumer,Chennai,West,Technology,Machines,Product_20,9,718.82,0.37
+ORD10005,2024-01-03,,Consumer,Mumbai,South,Furniture,Chairs,Product_7,6,7138.91,0.22
+ORD10769,2025-07-15,Customer_769,Corporate,Hyderabad,South,Furniture,Tables,Product_1,5,3034.8,0.02
+ORD10643,2025-04-14,Customer_643,Consumer,Chennai,East,Office Supplies,Paper,Product_38,7,3446.02,0.47
+ORD10902,2025-10-20,Customer_902,Corporate,Hyderabad,South,Furniture,Tables,Product_23,6,4026.25,0.3
+ORD10613,2025-03-23,Customer_613,Home Office,Pune,East,Furniture,Tables,Product_34,4,5387.98,0.35
+ORD10739,2025-06-23,Customer_739,Home Office,Bangalore,Central,Office Supplies,Storage,Product_18,3,9930.14,0.27
+ORD10547,2025-02-02,Customer_547,Corporate,Pune,Central,Furniture,Bookcases,Product_50,1,3359.38,0.25
+ORD10726,2025-06-13,Customer_726,Consumer,Hyderabad,West,Furniture,Tables,Product_46,9,4499.52,0.35
+ORD10684,2025-05-14,Customer_684,Corporate,Hyderabad,East,Furniture,Bookcases,Product_38,8,9490.35,0.4
+ORD10099,2024-03-12,Customer_99,Home Office,Bangalore,South,Furniture,Tables,Product_30,8,1270.4,0.17
+ORD10805,2025-08-10,Customer_805,Consumer,Hyderabad,East,Office Supplies,Paper,Product_38,8,2744.73,0.31
+ORD10728,2025-06-15,Customer_728,Corporate,Chennai,Central,Furniture,Bookcases,Product_8,9,7194.4,0.47
+ORD10574,2025-02-22,Customer_574,Home Office,Delhi,Central,Furniture,Tables,Product_39,3,9097.77,0.3
+ORD10407,2024-10-23,Customer_407,Home Office,Mumbai,South,Furniture,Tables,Product_10,7,448.63,0.49
+ORD10503,2025-01-01,Customer_503,Corporate,Delhi,Central,Technology,Phones,Product_20,1,7994.2,0.21
+ORD10048,2024-02-04,Customer_48,Home Office,Hyderabad,West,Furniture,Chairs,Product_46,4,708.11,0.09
+ORD10033,2024-01-24,Customer_33,Consumer,Chennai,Central,Office Supplies,Binders,Product_19,3,2744.04,0.44
+ORD10780,2025-07-23,Customer_780,Home Office,Bangalore,Central,Furniture,Bookcases,Product_45,8,6248.95,0.43
+ORD10840,2025-09-05,Customer_840,Consumer, Pune ,Central,Furniture,Chairs,Product_46,8,5190.85,0.49
+ORD10201,2024-05-26,Customer_201,Corporate,Pune,South,Furniture,Tables,Product_32,3,9180.48,0.5
+ORD10135,2024-04-07,Customer_135,Home Office,Delhi,South,Technology,Accessories,Product_1,7,5564.17,0.09
+ORD10028,2024-01-20,Customer_28,Corporate,Pune,South,Technology,Accessories,Product_7,4,2866.51,0.47
+ORD10885,2025-10-07,Customer_885,Corporate,Chennai,Central,Office Supplies,Binders,Product_16,8,3405.63,0.15
+ORD10231,2024-06-17,Customer_231,Consumer,Mumbai,South,Technology,Machines,Product_32,8,1150.64,0.34
+ORD10490,2024-12-23,Customer_490,Corporate,Delhi,West,Furniture,Bookcases,Product_2,9,9544.06,0.02
+ORD10773,2025-07-18,Customer_773,Corporate,Mumbai,South,Furniture,Tables,Product_34,9,621.93,0.14
+ORD10379,2024-10-03,Customer_379,Consumer,Delhi,Central,Furniture,Tables,Product_15,3,5220.37,0.06
+ORD10289,2024-07-29,Customer_289,Home Office,Hyderabad,South,Office Supplies,Binders,Product_10,4,6992.31,0.46
+ORD10419,2024-11-01,Customer_419,Home Office,Bangalore,East,Technology,Machines,Product_48,4,4083.49,0.25
+ORD10675,2025-05-07,Customer_675,Consumer,Bangalore,East,Furniture,Chairs,Product_30,7,1812.94,0.37
+ORD10392,2024-10-12,Customer_392,Consumer,Pune,Central,Technology,Phones,Product_31,4,732.41,0.36
+ORD10593,2025-03-08,Customer_593,Consumer,Mumbai,Central,Office Supplies,Storage,Product_11,5,7327.02,0.34
+ORD10499,2024-12-29,Customer_499,Home Office,Bangalore,South,Office Supplies,Storage,Product_44,2,5894.44,0.19
+ORD10139,2024-04-10,Customer_139,Consumer,Chennai,East,Technology,Phones,Product_13,9,6611.88,0.29
+ORD10063,2024-02-15,Customer_63,Corporate,Bangalore,West,Office Supplies,Storage,Product_6,7,9166.5,0.17
+ORD10472,2024-12-10,Customer_472,Consumer,Delhi,South,Office Supplies,Paper,Product_50,9,6325.84,0.24
+ORD10648,2025-04-17,Customer_648,Consumer,Pune,West,Furniture,Bookcases,Product_18,3,1521.09,0.32
+ORD10129,2024-04-03,Customer_129,Consumer,Mumbai,West,Technology,Phones,Product_19,4,5662.45,0.37
+ORD10982,2025-12-17,Customer_982,Corporate,Mumbai,West,Furniture,Tables,Product_1,9,803.27,0.35
+ORD10521,2025-01-14,Customer_521,Corporate,Chennai,West,Furniture,Tables,Product_24,3,4325.9,0.02
+ORD10839,2025-09-04,Customer_839,Home Office,Hyderabad,Central,Office Supplies,Binders,Product_36,3,8805.31,0.32
+ORD10968,2025-12-07,Customer_968,Consumer,Mumbai,Central,Technology,Machines,Product_26,5,8347.04,0.11
+ORD10065,2024-02-16,Customer_65,Corporate,Delhi,East,Office Supplies,Paper,Product_35,3,2907.72,0.37
+ORD10813,2025-08-16,Customer_813,Home Office,Bangalore,West,Office Supplies,Storage,Product_24,7,2276.63,0.12
+ORD10015,2024-01-11,Customer_15,Home Office,Delhi,Central,Office Supplies,Paper,Product_50,6,4576.8,0.07
+ORD10157,2024-04-23,Customer_157,Home Office,Hyderabad,Central,Technology,Machines,Product_49,1,7280.34,0.36
+ORD10041,2024-01-30,Customer_41,Corporate,Chennai,East,Furniture,Chairs,Product_42,8,779.62,0.15
+ORD10493,2024-12-25,Customer_493,Corporate,Bangalore,West,Furniture,Tables,Product_38,8,6772.97,0.04
+ORD10380,2024-10-03,Customer_380,Consumer,Bangalore,West,Technology,Accessories,Product_16,5,8497.0,0.46
+ORD10188,2024-05-16,Customer_188,Corporate,Pune,Central,Technology,Machines,Product_19,4,5831.76,0.48
+ORD10764,2025-07-11,Customer_764,Corporate,Chennai,West,Office Supplies,Paper,Product_23,7,5514.12,0.26
+ORD10217,2024-06-06,Customer_217,Consumer,Hyderabad,South,Office Supplies,Paper,Product_15,2,298.23,0.33
+ORD10792,2025-08-01,Customer_792,Consumer,Pune,West,Technology,Machines,Product_43,2,944.16,0.37
+ORD10053,2024-02-07,Customer_53,Home Office,Delhi,East,Office Supplies,Paper,Product_46,4,8097.87,0.0
+ORD10879,2025-10-03,Customer_879,Corporate,Hyderabad,West,Furniture,Bookcases,Product_19,6,5770.33,0.34
+ORD10338,2024-09-03,Customer_338,Consumer,Bangalore,Central,Office Supplies,Storage,Product_1,1,3313.63,0.09
+ORD10749,2025-06-30,Customer_749,Home Office,Chennai,South,Furniture,Bookcases,Product_18,2,9106.46,0.49
+ORD10720,2025-06-09,Customer_720,Home Office,Delhi,South,Technology,Phones,Product_24,5,173.18,0.3
+ORD10725,2025-06-13,Customer_725,Consumer,Hyderabad,Central,Furniture,Chairs,Product_23,2,4241.62,0.49
+ORD10296,2024-08-03,Customer_296,Home Office,Pune,West,Office Supplies,Binders,Product_2,4,8134.56,0.48
+ORD10702,2025-05-27,Customer_702,Consumer,Hyderabad,East,Technology,Phones,Product_20,8,4014.64,0.19
+ORD10252,2024-07-02,Customer_252,Consumer,Hyderabad,East,Technology,Phones,Product_17,2,9393.27,0.01
+ORD10727,2025-06-14,Customer_727,Corporate,Delhi,South,Furniture,Chairs,Product_8,6,3102.5,0.44
+ORD10462,2024-12-02,Customer_462,Consumer,Chennai,East,Furniture,Tables,Product_40,6,3172.04,0.46
+ORD10456,2024-11-28,Customer_456,Home Office,Bangalore,Central,Technology,Machines,Product_19,4,2230.04,0.05
+ORD10121,2024-03-28,Customer_121,Home Office,Pune,Central,Furniture,Tables,Product_28,2,6369.31,0.01
+ORD10816,2025-08-18,Customer_816,Home Office,Bangalore,West,Furniture,Bookcases,Product_2,5,1421.99,0.16
+ORD10863,2025-09-21,Customer_863,Corporate,Hyderabad,South,Technology,Accessories,Product_16,7,7520.5,0.38
+ORD10270,2024-07-15,Customer_270,Corporate,Delhi,West,Furniture,Chairs,Product_26,6,8528.92,0.04
+ORD10202,2024-05-26,Customer_202,Consumer,Pune,West,Office Supplies,Binders,Product_8,6,5580.23,0.4
+ORD10162,2024-04-27,Customer_162,Home Office,Bangalore,South,Technology,Phones,Product_1,8,2149.87,0.42
+ORD10556,2025-02-09,Customer_556,Corporate,Hyderabad,South,Office Supplies,Paper,Product_32,6,6395.52,0.37
+ORD10730,2025-06-16,Customer_730,Corporate,Pune,West,Office Supplies,Storage,Product_47,6,2751.15,0.35
+ORD10402,2024-10-20,Customer_402,Corporate,Mumbai,East,Office Supplies,Binders,Product_35,4,6979.69,0.35
+ORD10703,2025-05-27,Customer_703,Consumer,Delhi,West,Furniture,Tables,Product_39,3,6903.18,0.48
+ORD10477,2024-12-13,Customer_477,Corporate,Hyderabad,Central,Furniture,Chairs,Product_43,4,6570.51,0.35
+ORD10822,2025-08-22,Customer_822,Consumer,Delhi,East,Furniture,Bookcases,Product_6,2,5764.5,0.28
+ORD10772,2025-07-17,Customer_772,Corporate,Hyderabad,East,Furniture,Bookcases,Product_11,7,6559.51,0.28
+ORD10106,2024-03-17,Customer_106,Consumer,Pune,South,Technology,Machines,Product_42,7,2683.09,0.08
+ORD10566,2025-02-16,Customer_566,Consumer,Pune,Central,Office Supplies,Storage,Product_23,9,5663.16,0.35
+ORD10390,2024-10-11,Customer_390,Consumer,Pune,Central,Furniture,Tables,Product_22,9,5518.51,0.43
+ORD10002,2024-01-01,Customer_2,Consumer,Pune,West,Furniture,Bookcases,Product_13,1,2497.53,0.01
+ORD10942,2025-11-18,Customer_942,Home Office,Hyderabad,Central,Office Supplies,Paper,Product_3,2,2178.19,0.26
+ORD10988,2025-12-22,Customer_988,Home Office,Mumbai,East,Office Supplies,Paper,Product_1,6,1161.5,0.37
+ORD10562,2025-02-13,Customer_562,Corporate,Pune,South,Office Supplies,Binders,Product_40,7,4202.64,0.34
+ORD10081,2024-02-28,Customer_81,Home Office,Delhi,East,Technology,Machines,Product_47,7,5074.41,0.33
+ORD10206,2024-05-29,Customer_206,Corporate,Mumbai,South,Technology,Phones,Product_47,4,7278.6,0.1
+ORD10035,2024-01-25,Customer_35,Corporate,Mumbai,South,Technology,Accessories,Product_4,1,8601.74,0.0
+ORD10776,2025-07-20,Customer_776,Home Office,Bangalore,South,Office Supplies,Storage,Product_32,8,3049.75,0.1
+ORD10509,2025-01-06,Customer_509,Home Office,Mumbai,West,Office Supplies,Binders,Product_17,2,4722.09,0.25
+ORD10428,2024-11-08,Customer_428,Corporate,Mumbai,West,Furniture,Bookcases,Product_5,5,4557.74,0.36
+ORD10455,2024-11-27,Customer_455,Home Office,Mumbai,Central,Furniture,Bookcases,Product_22,3,6322.17,0.05
+ORD10367,2024-09-24,Customer_367,Home Office,Hyderabad,South,Office Supplies,Storage,Product_20,3,3527.35,0.21
+ORD10092,2024-03-07,Customer_92,Consumer,Mumbai,South,Furniture,Tables,Product_40,4,7039.26,0.25
+ORD10340,2024-09-04,Customer_340,Home Office,Mumbai,South,Office Supplies,Paper,Product_22,3,3438.94,0.11
+ORD10898,2025-10-17,Customer_898,Home Office,Pune,East,Office Supplies,Paper,Product_20,6,8709.2,0.46
+ORD10565,2025-02-16,Customer_565,Consumer,Bangalore,East,Technology,Phones,Product_44,1,2973.53,0.01
+ORD10346,2024-09-09,Customer_346,Consumer,Bangalore,East,Furniture,Bookcases,Product_5,4,7526.52,0.34
+ORD10777,2025-07-21,Customer_777,Corporate,Mumbai,East,Technology,Phones,Product_15,4,4605.25,0.44
+ORD10242,2024-06-25,Customer_242,Consumer,Chennai,East,Furniture,Bookcases,Product_48,1,5158.61,0.28
+ORD10014,2024-01-10,Customer_14,Consumer,Bangalore,East,Technology,Accessories,Product_38,3,903.53,0.11
+ORD10316,2024-08-18,Customer_316,Consumer,Hyderabad,South,Office Supplies,Storage,Product_46,2,8150.16,0.18
+ORD10601,2025-03-14,Customer_601,Corporate,Bangalore,South,Furniture,Tables,Product_46,8,3989.8,0.06
+ORD10388,2024-10-09,Customer_388,Consumer,Delhi,East,Office Supplies,Paper,Product_48,3,1221.67,0.19
+ORD10274,2024-07-18,Customer_274,Consumer,Delhi,West,Office Supplies,Binders,Product_22,2,2813.79,0.13
+ORD10167,2024-05-01,Customer_167,Corporate,Hyderabad,West,Office Supplies,Storage,Product_3,7,2530.95,0.45
+ORD10841,2025-09-05,Customer_841,Home Office,Mumbai,West,Office Supplies,Storage,Product_19,9,5437.99,0.41
+ORD10998,2025-12-29,Customer_998,Consumer,Bangalore,Central,Technology,Accessories,Product_16,1,3722.4,0.21
+ORD10647,2025-04-17,Customer_647,Corporate,Delhi,Central,Furniture,Bookcases,Product_48,7,2436.37,0.35
+ORD10819,2025-08-20,Customer_819,Home Office,Delhi,West,Technology,Phones,Product_39,5,9697.96,0.13
+ORD10485,2024-12-19,Customer_485,Corporate,Mumbai,South,Furniture,Chairs,Product_28,6,,0.39
+ORD10986,2025-12-20,Customer_986,Home Office,Pune,West,Furniture,Bookcases,Product_47,9,5196.36,0.44
+ORD10505,2025-01-03,Customer_505,Corporate,Mumbai,Central,Furniture,Chairs,Product_29,7,7528.27,0.33
+ORD10832,2025-08-30,Customer_832,Consumer,Pune,East,Office Supplies,Binders,Product_49,3,842.1,0.06
+ORD10244,2024-06-26,Customer_244,Consumer,Bangalore,South,Office Supplies,Storage,Product_36,1,632.44,0.48
+ORD10567,2025-02-17,Customer_567,Home Office,Mumbai,South,Furniture,Tables,Product_40,6,1208.15,0.01
+ORD10876,2025-10-01,Customer_876,Home Office,Delhi,West,Technology,Phones,Product_20,3,8706.59,0.04
+ORD10563,2025-02-14,Customer_563,Consumer,Bangalore,East,Furniture,Tables,Product_8,3,9364.68,0.35
+ORD10687,2025-05-16,Customer_687,Consumer,Delhi,East,Technology,Phones,Product_6,9,7662.18,0.07
+ORD10958,2025-11-30,Customer_958,Consumer,Chennai,East,Furniture,Bookcases,Product_48,5,3572.7,0.14
+ORD10190,2024-05-18,Customer_190,Consumer,Hyderabad,West,Technology,Phones,Product_41,7,,0.14
+ORD10783,2025-07-25,Customer_783,Home Office,Hyderabad,South,Office Supplies,Storage,Product_8,4,6321.23,0.1
+ORD10700,2025-05-25,Customer_700,Consumer,Mumbai,South,Office Supplies,Binders,Product_31,7,9866.23,0.31
+ORD10476,2024-12-13,Customer_476,Corporate,Delhi,East,Furniture,Tables,Product_33,6,5471.48,0.44
+ORD10682,2025-05-12,Customer_682,Consumer,Hyderabad,South,Office Supplies,Paper,Product_22,6,7498.25,0.39
+ORD10511,2025-01-07,Customer_511,Consumer,Bangalore,Central,Technology,Accessories,Product_16,2,5407.94,0.08
+ORD10059,2024-02-12,Customer_59,Home Office,Chennai,Central,Technology,Phones,Product_33,9,9938.46,0.04
+ORD10475,2024-12-12,Customer_475,Consumer,Bangalore,East,Office Supplies,Storage,Product_48,2,7434.61,0.34
+ORD10561,2025-02-13,Customer_561,Consumer,Delhi,South,Technology,Machines,Product_37,7,1969.06,0.15
+ORD10857,2025-09-17,Customer_857,Corporate,Chennai,East,Office Supplies,Storage,Product_4,3,9321.64,0.35
+ORD10748,2025-06-29,Customer_748,Corporate,Hyderabad,East,Office Supplies,Storage,Product_30,1,9840.67,0.2
+ORD10253,2024-07-03,Customer_253,Consumer,Bangalore,West,Technology,Phones,Product_35,3,4974.39,0.02
+ORD10022,2024-01-16,Customer_22,Corporate,Bangalore,East,Furniture,Tables,Product_5,5,414.05,0.24
+ORD10314,2024-08-16,Customer_314,Corporate,Pune,East,Office Supplies,Storage,Product_28,4,1450.07,0.1
+ORD10460,2024-12-01,Customer_460,Corporate,Bangalore,Central,Furniture,Bookcases,Product_1,6,421.27,0.32
+ORD10161,2024-04-26,Customer_161,Corporate,Pune,South,Technology,Machines,Product_39,5,5500.35,0.13
+ORD10277,2024-07-20,Customer_277,Consumer,Pune,West,Technology,Machines,Product_42,9,7911.33,0.31
+ORD10956,2025-11-28,Customer_956,Consumer,Hyderabad,Central,Office Supplies,Paper,Product_5,4,8961.26,0.4
+ORD10192,2024-05-19,Customer_192,Home Office,Delhi,West,Office Supplies,Storage,Product_15,6,2244.13,0.49
+ORD10386,not available,Customer_386,Home Office,Chennai,West,Office Supplies,Storage,Product_11,3,1046.84,0.1
+ORD10806,2025-08-11,Customer_806,Corporate,Pune,Central,Technology,Accessories,Product_37,9,9115.58,0.49
+ORD10414,2024-10-28,Customer_414,Home Office,Pune,East,Office Supplies,Binders,Product_2,1,2788.35,0.5
+ORD10492,2024-12-24,Customer_492,Consumer,Delhi,South,Office Supplies,Storage,Product_49,8,5814.44,0.48
+ORD10344,2024-09-07,Customer_344,Corporate,Delhi,South,Furniture,Bookcases,Product_35,7,4806.32,0.04
+ORD10770,2025-07-15,Customer_770,Corporate,Chennai,West,Technology,Phones,Product_44,6,9303.53,0.33
+ORD10309,2024-08-13,Customer_309,Consumer,Chennai,East,Technology,Machines,Product_30,6,4923.4,0.06
+ORD10662,2025-04-28,Customer_662,Corporate,Bangalore,East,Furniture,Chairs,Product_13,3,1400.98,0.42
+ORD10131,2024-04-04,Customer_131,Consumer,Hyderabad,East,Technology,Accessories,Product_10,3,9270.45,0.44
+ORD10664,2025-04-29,Customer_664,Corporate,Delhi,West,Office Supplies,Storage,Product_14,7,5854.03,0.46
+ORD10872,2025-09-28,Customer_872,Corporate,Bangalore,West,office supplies,Storage,Product_24,9,7185.79,0.41
+ORD10100,2024-03-13,Customer_100,Corporate,Delhi,South,Furniture,Bookcases,Product_22,6,4074.83,0.2
+ORD10373,2024-09-28,Customer_373,Home Office,Mumbai,West,Technology,Accessories,Product_10,4,4101.99,0.06
+ORD10088,2024-03-04,Customer_88,Home Office,Chennai,West,Furniture,Chairs,Product_48,6,9529.92,0.31
+ORD10459,2024-11-30,Customer_459,Corporate,Delhi,East,Office Supplies,Paper,Product_4,3,9975.43,0.0
+ORD10331,2024-08-29,Customer_331,Corporate,Pune,West,Furniture,Bookcases,Product_20,9,8638.65,0.3
+ORD10215,2024-06-05,Customer_215,Consumer,Mumbai,Central,Office Supplies,Binders,Product_13,6,7473.77,0.2
+ORD10467,2024-12-06,Customer_467,Consumer,Bangalore,West,Furniture,Bookcases,Product_47,7,9193.36,0.45
+ORD10122,31/02/2025,Customer_122,Home Office,Hyderabad,East,Technology,Accessories,Product_24,8,4557.8,0.34
+ORD10615,2025-03-24,Customer_615,Home Office,Bangalore,Central,Technology,Machines,Product_22,7,7512.11,0.5
+ORD10021,2024-01-15,Customer_21,Consumer,Hyderabad,East,Furniture,Bookcases,Product_29,2,6748.72,0.22
+ORD10701,2025-05-26,Customer_701,Home Office,Delhi,South,Technology,Machines,Product_21,2,2854.85,0.33
+ORD10072,2024-02-21,Customer_72,Consumer,Bangalore,West,Office Supplies,Binders,Product_17,5,1801.58,0.2
+ORD10107,2024-03-18,Customer_107,Consumer,Delhi,West,Furniture,Bookcases,Product_14,3,9699.2,0.31
+ORD10271,2024-07-16,Customer_271,Consumer,Hyderabad,Central,Furniture,Chairs,Product_36,6,934.22,0.32
+ORD10861,2025-09-20,Customer_861,Consumer,Mumbai,East,Office Supplies,Storage,Product_9,3,6651.93,0.45
+ORD10436,2024-11-13,Customer_436,Consumer,Bangalore,South,Office Supplies,Binders,Product_38,9,8402.23,0.23
+ORD10103,2024-03-15,Customer_103,Consumer,Mumbai,West,Technology,Phones,Product_17,1,1941.02,0.36
